@@ -1,0 +1,45 @@
+#awwwards {
+    display: none !important;
+}
+
+#mobile {
+    display: none !important;
+}
+
+#lab {
+    display: none !important;
+}
+
+#showreel {
+    display: none !important;
+}
+
+.nav-item:nth-child(3) {
+    display: none !important;
+}
+
+.social-wrp a:nth-child(4) {
+    display: none !important;
+}
+
+.social-wrp a:nth-child(5) {
+    display: none !important;
+}
+
+.social-wrp a:nth-child(7) {
+    display: none !important;
+}
+
+.social-wrp a:nth-child(8) {
+    display: none !important;
+}
+
+.social-wrp a:nth-child(9) {
+    display: none !important;
+}
+
+@media screen and (max-width: 768px){
+    footer .main-footer-wrp {
+        top: 25% !important;
+    }
+}
