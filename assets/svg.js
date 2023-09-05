@@ -40,7 +40,7 @@ function changeLinks() {
         },800)
     }
 
-    const linksFromDOM = document.querySelectorAll('#web > div > div')
+    const linksFromDOM = document.querySelectorAll('#web > div > div > div')
     linksFromDOM.forEach((link, index) => {
         link.addEventListener('click', () => openSite(index))
     })
