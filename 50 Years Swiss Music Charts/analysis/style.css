@@ -1,0 +1,146 @@
+@font-face{
+    font-family:"Avenir LT Light";
+    src:url("Fonts/edefe737-dc78-4aa3-ad03-3c6f908330edd41d.eot?#iefix");
+    src:url("Fonts/edefe737-dc78-4aa3-ad03-3c6f908330edd41d.eot?#iefix") format("eot"),url("Fonts/0078f486-8e52-42c0-ad81-3c8d3d43f48e.woff2") format("woff2"),url("Fonts/908c4810-64db-4b46-bb8e-823eb41f68c0.woff") format("woff"),url("Fonts/4577388c-510f-4366-addb-8b663bcc762a.ttf") format("truetype"),url("Fonts/b0268c31-e450-4159-bfea-e0d20e2b5c0c.svg#b0268c31-e450-4159-bfea-e0d20e2b5c0c") format("svg");
+}
+@font-face{
+    font-family:"Avenir LT Medium";
+    src:url("Fonts/e0542193-b2e6-4273-bc45-39d4dfd3c15bd41d.eot?#iefix");
+    src:url("Fonts/e0542193-b2e6-4273-bc45-39d4dfd3c15bd41d.eot?#iefix") format("eot"),url("Fonts/17b90ef5-b63f-457b-a981-503bb7afe3c0.woff2") format("woff2"),url("Fonts/c9aeeabd-dd65-491d-b4be-3e0db9ae47a0.woff") format("woff"),url("Fonts/25f994de-d13f-4a5d-a82b-bf925a1e054d.ttf") format("truetype"),url("Fonts/3604edbd-784e-4ca7-b978-18836469c62d.svg#3604edbd-784e-4ca7-b978-18836469c62d") format("svg");
+}
+@font-face{
+    font-family:"Avenir LT Heavy";
+    src:url("Fonts/6af9989e-235b-4c75-8c08-a83bdaef3f66d41d.eot?#iefix");
+    src:url("Fonts/6af9989e-235b-4c75-8c08-a83bdaef3f66d41d.eot?#iefix") format("eot"),url("Fonts/d513e15e-8f35-4129-ad05-481815e52625.woff2") format("woff2"),url("Fonts/61bd362e-7162-46bd-b67e-28f366c4afbe.woff") format("woff"),url("Fonts/ccd17c6b-e7ed-4b73-b0d2-76712a4ef46b.ttf") format("truetype"),url("Fonts/20577853-40a7-4ada-a3fb-dd6e9392f401.svg#20577853-40a7-4ada-a3fb-dd6e9392f401") format("svg");
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Avenir LT Light";
+    position: relative;
+}
+
+line {
+	stroke: #000000;
+	stroke-width: 1;
+}
+
+.white {
+    fill: #ffffff;
+    color: #ffffff;
+}
+
+.lightPink {
+    fill: #ff81b3;
+    color: #ff81b3;
+}
+
+.mediumPink {
+    fill: #d25a94;
+    color: #d25a94;
+}
+
+.darkPink {
+    fill: #77385e;
+    color: #77385e;
+}
+
+.darkBlue {
+    background: #020123;
+}
+
+h1 {
+    font-family:"Avenir LT Light";
+    font-weight: lighter;
+    font-size: 16pt;
+    fill: #d25a94;
+    color: #d25a94;
+    margin-bottom: 50px;
+    letter-spacing: 2px;
+}
+
+h2 {
+    font-family:"Avenir LT Light";
+    font-weight: lighter;
+    font-size: 14pt;
+    fill: #ffffff;
+    color: #ffffff;
+    margin-bottom: 12px;
+    letter-spacing: 2px;
+}
+
+p {
+    font-family:"Avenir LT Light";
+    font-weight: lighter;
+    font-size: 10pt;
+    fill: #ffffff;
+    color: #ffffff;
+    letter-spacing: 1px;
+}
+
+a:link, a:visited {
+    fill: #ff81b3;
+    color: #ff81b3;
+    text-decoration: underline;
+    cursor: pointer;
+    font-family:"Avenir LT Medium";
+
+}
+
+a:link:active, a:visited:active {
+    fill: #d25a94;
+    color: #d25a94;
+    font-family:"Avenir LT Medium";
+    cursor: pointer;
+}
+
+.link {
+    color: #77385e;
+    font-family:"Avenir LT Medium";
+    cursor: pointer;
+}
+
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+  
+#overallcontainer {
+    background-color: #020123;
+    color: #ffffff;
+    width: auto;
+    padding-left: 10%;
+    padding-right: 10%;
+    overflow: hidden;
+}
+
+#content {
+    max-width: 1381px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.chartImage{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+.numberImage {
+    width: 25px;
+    margin-bottom: 15px
+}
+
+.textGroup {
+    width: 100%;
+    padding-top: 3px;
+}
+
+#mapImage {
+    cursor: pointer;
+}
