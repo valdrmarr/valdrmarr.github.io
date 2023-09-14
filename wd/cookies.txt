@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+weddingpost.ru	TRUE	/	FALSE	1999999999	PHPSESSID	dc806b64901f474acddcf915f4de9e9e
+
