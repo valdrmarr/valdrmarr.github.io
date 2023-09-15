@@ -7686,7 +7686,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Annabelle';
-	src: url("/cabinet/constructor/font/annabelle.woff") format('woff'), url("/cabinet/constructor/font/annabelle.ttf") format('truetype');
+	src: url("./cabinet/constructor/font/annabelle.woff") format('woff'), url("./cabinet/constructor/font/annabelle.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7694,7 +7694,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'AmericanCaptain';
-	src: url("/cabinet/constructor/font/AmericanCaptain.woff") format('woff'), url("/cabinet/constructor/font/AmericanCaptain.ttf") format('truetype');
+	src: url("./cabinet/constructor/font/AmericanCaptain.woff") format('woff'), url("./cabinet/constructor/font/AmericanCaptain.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7702,7 +7702,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Agoniae';
-	src: url("/cabinet/constructor/font/Agoniae.woff") format('woff'), url("/cabinet/constructor/font/Agoniae.ttf") format('truetype');
+	src: url("./cabinet/constructor/font/Agoniae.woff") format('woff'), url("./cabinet/constructor/font/Agoniae.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7710,7 +7710,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Calme Extra';
-	src: url("/cabinet/constructor/font/CalmExtra.woff") format('woff'), url("/cabinet/constructor/font/CalmExtra.ttf") format('truetype');
+	src: url("./cabinet/constructor/font/CalmExtra.woff") format('woff'), url("./cabinet/constructor/font/CalmExtra.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7718,7 +7718,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Calme Bold';
-	src: url("/cabinet/constructor/font/CalmBold.woff") format('woff'), url("/cabinet/constructor/font/CalmBold.ttf") format('truetype');
+	src: url("./cabinet/constructor/font/CalmBold.woff") format('woff'), url("./cabinet/constructor/font/CalmBold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7726,7 +7726,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Aquator';
-	src: url("/cabinet/constructor/font/Aquatory.otf") format("opentype");
+	src: url("./cabinet/constructor/font/Aquatory.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7734,7 +7734,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Calme-EB';
-	src: url("/cabinet/constructor/font/Calmius-ExtraBold.otf") format("opentype");
+	src: url("./cabinet/constructor/font/Calmius-ExtraBold.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7742,7 +7742,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Forlove';
-	src: url("/cabinet/constructor/font/forlove.otf") format("opentype");
+	src: url("./cabinet/constructor/font/forlove.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7750,7 +7750,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Vetrino';
-	src: url("/cabinet/constructor/font/Vetrino.otf") format("opentype");
+	src: url("./cabinet/constructor/font/Vetrino.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7758,7 +7758,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Betmo';
-	src: url("/cabinet/constructor/font/Betmo.otf") format("opentype");
+	src: url("./cabinet/constructor/font/Betmo.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7766,7 +7766,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Cooltura_s';
-	src: url("/cabinet/constructor/font/Cooltura_s.otf") format("opentype");
+	src: url("./cabinet/constructor/font/Cooltura_s.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7774,7 +7774,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Cooltura_l';
-	src: url("/cabinet/constructor/font/Cooltura_l.otf") format("opentype");
+	src: url("./cabinet/constructor/font/Cooltura_l.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7782,7 +7782,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Cooltura';
-	src: url("/cabinet/constructor/font/Cooltura.otf") format("opentype");
+	src: url("./cabinet/constructor/font/Cooltura.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7790,7 +7790,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'EVelikaya';
-	src: url("/cabinet/constructor/font/EVelikaya.ttf") format('truetype');
+	src: url("./cabinet/constructor/font/EVelikaya.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7798,7 +7798,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Lithium';
-	src: url("/cabinet/constructor/font/Lithium.otf") format("opentype");
+	src: url("./cabinet/constructor/font/Lithium.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7806,7 +7806,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'SoulAdvent';
-	src: url("/cabinet/constructor/font/SoulAdvent.otf") format("opentype");
+	src: url("./cabinet/constructor/font/SoulAdvent.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7814,7 +7814,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'SoulSymbols';
-	src: url("/cabinet/constructor/font/SoulSymbols.otf") format("opentype");
+	src: url("./cabinet/constructor/font/SoulSymbols.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7822,7 +7822,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Thedream';
-	src: url("/cabinet/constructor/font/Thedream.otf") format("opentype");
+	src: url("./cabinet/constructor/font/Thedream.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7830,7 +7830,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Colus';
-	src: url("/cabinet/constructor/font/Colus.otf") format("opentype");
+	src: url("./cabinet/constructor/font/Colus.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7838,7 +7838,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Mettlach';
-	src: url("/cabinet/constructor/font/Mettlach.otf") format("opentype");
+	src: url("./cabinet/constructor/font/Mettlach.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7846,7 +7846,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Bardo';
-	src: url("/cabinet/constructor/font/Bardo.otf") format("opentype");
+	src: url("./cabinet/constructor/font/Bardo.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7854,7 +7854,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Storytella';
-	src: url("/cabinet/constructor/font/Storytella.otf") format("opentype");
+	src: url("./cabinet/constructor/font/Storytella.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7862,7 +7862,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Karlissta';
-	src: url("/cabinet/constructor/font/Karlissta.ttf") format('truetype');
+	src: url("./cabinet/constructor/font/Karlissta.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7870,7 +7870,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'LighthausRegular';
-	src: url(" /cabinet/constructor/font/LighthausRegular.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/LighthausRegular.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7878,7 +7878,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Mettlach';
-	src: url(" /cabinet/constructor/font/Mettlach.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Mettlach.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7886,7 +7886,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Onest-Black';
-	src: url(" /cabinet/constructor/font/Onest-Black.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Onest-Black.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7894,7 +7894,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Onest-Bold';
-	src: url(" /cabinet/constructor/font/Onest-Bold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Onest-Bold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7902,7 +7902,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Onest-ExtraBold';
-	src: url(" /cabinet/constructor/font/Onest-ExtraBold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Onest-ExtraBold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7910,7 +7910,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Onest-Medium';
-	src: url(" /cabinet/constructor/font/Onest-Medium.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Onest-Medium.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7918,7 +7918,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Onest-Thin';
-	src: url(" /cabinet/constructor/font/Onest-Thin.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Onest-Thin.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7926,7 +7926,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Playfair_t';
-	src: url(" /cabinet/constructor/font/Playfair_t.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Playfair_t.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7934,7 +7934,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Playfair_m';
-	src: url(" /cabinet/constructor/font/Playfair_m.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Playfair_m.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7942,7 +7942,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Playfair_v';
-	src: url(" /cabinet/constructor/font/Playfair_v.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Playfair_v.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7950,7 +7950,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Playfair';
-	src: url(" /cabinet/constructor/font/Playfair.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Playfair.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7958,7 +7958,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'PoiretOne';
-	src: url(" /cabinet/constructor/font/PoiretOne.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/PoiretOne.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7966,7 +7966,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Prata';
-	src: url(" /cabinet/constructor/font/Prata.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Prata.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7974,7 +7974,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Santa Catarina';
-	src: url(" /cabinet/constructor/font/Santa Catarina.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Santa Catarina.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7982,7 +7982,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Sweet Mavka';
-	src: url(" /cabinet/constructor/font/Sweet Mavka.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Sweet Mavka.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7990,7 +7990,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Thedream';
-	src: url(" /cabinet/constructor/font/Thedream.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Thedream.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -7998,7 +7998,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'TildaSans-B';
-	src: url("/cabinet/constructor/font/TildaSans-B.ttf") format('truetype');
+	src: url("./cabinet/constructor/font/TildaSans-B.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8006,7 +8006,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'TildaSans-EB';
-	src: url("/cabinet/constructor/font/TildaSans-EB.ttf") format('truetype');
+	src: url("./cabinet/constructor/font/TildaSans-EB.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8014,7 +8014,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'TildaSans-Ex';
-	src: url("/cabinet/constructor/font/TildaSans-Ex.ttf") format('truetype');
+	src: url("./cabinet/constructor/font/TildaSans-Ex.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8022,7 +8022,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'TildaSans-L';
-	src: url("/cabinet/constructor/font/TildaSans-L.ttf") format('truetype');
+	src: url("./cabinet/constructor/font/TildaSans-L.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8030,7 +8030,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'TildaSans-M';
-	src: url("/cabinet/constructor/font/TildaSans-M.ttf") format('truetype');
+	src: url("./cabinet/constructor/font/TildaSans-M.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8038,7 +8038,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'TildaSans-R';
-	src: url("/cabinet/constructor/font/TildaSans-R.ttf") format('truetype');
+	src: url("./cabinet/constructor/font/TildaSans-R.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8046,7 +8046,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'TildaSansVF';
-	src: url(" /cabinet/constructor/font/TildaSansVF.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/TildaSansVF.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8054,7 +8054,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Unboun-B';
-	src: url(" /cabinet/constructor/font/Unboun-B.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Unboun-B.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8062,7 +8062,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Unboun-Bl';
-	src: url(" /cabinet/constructor/font/Unboun-Bl.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Unboun-Bl.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8070,7 +8070,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Unboun-El';
-	src: url(" /cabinet/constructor/font/Unboun-El.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Unboun-El.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8078,7 +8078,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Unboun';
-	src: url(" /cabinet/constructor/font/Unboun.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Unboun.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8086,7 +8086,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Ustroke';
-	src: url(" /cabinet/constructor/font/Ustroke.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Ustroke.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8094,7 +8094,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Honey';
-	src: url("/cabinet/constructor/font/Honey.woff") format('woff'), url("/cabinet/constructor/font/Honey.ttf") format('truetype');
+	src: url("./cabinet/constructor/font/Honey.woff") format('woff'), url("./cabinet/constructor/font/Honey.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8102,7 +8102,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Patriciana';
-	src: url("/cabinet/constructor/font/Patriciana.woff") format('woff'), url("/cabinet/constructor/font/Patriciana.ttf") format('truetype');
+	src: url("./cabinet/constructor/font/Patriciana.woff") format('woff'), url("./cabinet/constructor/font/Patriciana.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8110,7 +8110,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'SaintAmour';
-	src: url("/cabinet/constructor/font/SaintAmoure.woff") format('woff'), url("/cabinet/constructor/font/SaintAmoure.ttf") format('truetype');
+	src: url("./cabinet/constructor/font/SaintAmoure.woff") format('woff'), url("./cabinet/constructor/font/SaintAmoure.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8118,7 +8118,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'LeJardin';
-	src: url(" /cabinet/constructor/font/LeJardine.woff") format('woff'), url(" /cabinet/constructor/font/LeJardine.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/LeJardine.woff") format('woff'), url(" ./cabinet/constructor/font/LeJardine.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8126,7 +8126,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Sahar';
-	src: url(" /cabinet/constructor/font/Sahar-Thine.woff") format('woff'), url(" /cabinet/constructor/font/Sahar-Thine.woff") format('truetype');
+	src: url(" ./cabinet/constructor/font/Sahar-Thine.woff") format('woff'), url(" ./cabinet/constructor/font/Sahar-Thine.woff") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8134,7 +8134,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Sahar Italice';
-	src: url(" /cabinet/constructor/font/Sahar-Thin-Italice.woff") format('woff'), url(" /cabinet/constructor/font/Sahar-Thin-Italice.woff") format('truetype');
+	src: url(" ./cabinet/constructor/font/Sahar-Thin-Italice.woff") format('woff'), url(" ./cabinet/constructor/font/Sahar-Thin-Italice.woff") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8142,7 +8142,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'WonderGardene';
-	src: url(" /cabinet/constructor/font/WonderGardene.woff") format('woff'), url(" /cabinet/constructor/font/WonderGardene.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/WonderGardene.woff") format('woff'), url(" ./cabinet/constructor/font/WonderGardene.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8150,7 +8150,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'WonderSanse';
-	src: url(" /cabinet/constructor/font/WonderGardenSanse.woff") format('woff'), url(" /cabinet/constructor/font/WonderGardenSanse.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/WonderGardenSanse.woff") format('woff'), url(" ./cabinet/constructor/font/WonderGardenSanse.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8158,7 +8158,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Florale_EN';
-	src: url(" /cabinet/constructor/font/Florale.woff") format('woff'), url(" /cabinet/constructor/font/Florale.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Florale.woff") format('woff'), url(" ./cabinet/constructor/font/Florale.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8166,7 +8166,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'AndantinoScript';
-	src: url(" /cabinet/constructor/font/andantino-script.woff") format('woff'), url(" /cabinet/constructor/font/andantino-script.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/andantino-script.woff") format('woff'), url(" ./cabinet/constructor/font/andantino-script.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8174,7 +8174,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'BickhamScript3';
-	src: url(" /cabinet/constructor/font/bickham-script-three.woff") format('woff'), url(" /cabinet/constructor/font/bickham-script-three.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/bickham-script-three.woff") format('woff'), url(" ./cabinet/constructor/font/bickham-script-three.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8182,7 +8182,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'BickhamScript2';
-	src: url(" /cabinet/constructor/font/bickham-script-two.woff") format('woff'), url(" /cabinet/constructor/font/bickham-script-two.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/bickham-script-two.woff") format('woff'), url(" ./cabinet/constructor/font/bickham-script-two.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8190,7 +8190,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Carolina';
-	src: url(" /cabinet/constructor/font/carolina.woff") format('woff'), url(" /cabinet/constructor/font/carolina.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/carolina.woff") format('woff'), url(" ./cabinet/constructor/font/carolina.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8198,7 +8198,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Debby';
-	src: url(" /cabinet/constructor/font/Debby.woff") format('woff'), url(" /cabinet/constructor/font/Debby.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Debby.woff") format('woff'), url(" ./cabinet/constructor/font/Debby.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8206,7 +8206,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'DsArabic';
-	src: url(" /cabinet/constructor/font/ds-arabic.woff") format('woff'), url(" /cabinet/constructor/font/ds-arabic.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/ds-arabic.woff") format('woff'), url(" ./cabinet/constructor/font/ds-arabic.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8214,7 +8214,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'LemonTuesday';
-	src: url(" /cabinet/constructor/font/LemonTuesday.woff") format('woff'), url(" /cabinet/constructor/font/LemonTuesday.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/LemonTuesday.woff") format('woff'), url(" ./cabinet/constructor/font/LemonTuesday.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8222,7 +8222,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'LifehackBasic';
-	src: url(" /cabinet/constructor/font/LifehackBasic.woff") format('woff'), url(" /cabinet/constructor/font/LifehackBasic.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/LifehackBasic.woff") format('woff'), url(" ./cabinet/constructor/font/LifehackBasic.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8230,7 +8230,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Marianna';
-	src: url(" /cabinet/constructor/font/marianna.woff") format('woff'), url(" /cabinet/constructor/font/marianna.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/marianna.woff") format('woff'), url(" ./cabinet/constructor/font/marianna.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8238,7 +8238,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'MountainsofChristmas';
-	src: url(" /cabinet/constructor/font/MountainsofChristmas.woff") format('woff'), url(" /cabinet/constructor/font/MountainsofChristmas.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/MountainsofChristmas.woff") format('woff'), url(" ./cabinet/constructor/font/MountainsofChristmas.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8246,7 +8246,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'MovusBrushPen';
-	src: url(" /cabinet/constructor/font/Movus_BrushPen.woff") format('woff'), url(" /cabinet/constructor/font/Movus_BrushPen.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Movus_BrushPen.woff") format('woff'), url(" ./cabinet/constructor/font/Movus_BrushPen.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8254,7 +8254,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Ninactt';
-	src: url(" /cabinet/constructor/font/ninactt.woff") format('woff'), url(" /cabinet/constructor/font/ninactt.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/ninactt.woff") format('woff'), url(" ./cabinet/constructor/font/ninactt.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8262,7 +8262,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'PeaceSans';
-	src: url(" /cabinet/constructor/font/PeaceSans.woff") format('woff'), url(" /cabinet/constructor/font/PeaceSans.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/PeaceSans.woff") format('woff'), url(" ./cabinet/constructor/font/PeaceSans.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8270,7 +8270,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Pecita';
-	src: url(" /cabinet/constructor/font/Pecita.woff") format('woff'), url(" /cabinet/constructor/font/Pecita.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Pecita.woff") format('woff'), url(" ./cabinet/constructor/font/Pecita.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8278,7 +8278,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'VenskiSad';
-	src: url(" /cabinet/constructor/font/venski-sad-two-medium.woff") format('woff'), url(" /cabinet/constructor/font/venski-sad-two-medium.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/venski-sad-two-medium.woff") format('woff'), url(" ./cabinet/constructor/font/venski-sad-two-medium.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8286,7 +8286,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'CorridaCTT';
-	src: url(" /cabinet/constructor/font/CorridaCTT.woff") format('woff'), url(" /cabinet/constructor/font/CorridaCTT.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/CorridaCTT.woff") format('woff'), url(" ./cabinet/constructor/font/CorridaCTT.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8294,7 +8294,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'DecorCyrillic';
-	src: url(" /cabinet/constructor/font/DecorCyrillic.woff") format('woff'), url(" /cabinet/constructor/font/DecorCyrillic.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/DecorCyrillic.woff") format('woff'), url(" ./cabinet/constructor/font/DecorCyrillic.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8302,7 +8302,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'IsadoraCyr';
-	src: url(" /cabinet/constructor/font/IsadoraCyr.woff") format('woff'), url(" /cabinet/constructor/font/IsadoraCyr.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/IsadoraCyr.woff") format('woff'), url(" ./cabinet/constructor/font/IsadoraCyr.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8310,7 +8310,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Colus-Regular';
-	src: url(" /cabinet/constructor/font/Colus-Regular.woff") format('woff'), url(" /cabinet/constructor/font/Colus-Regular.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Colus-Regular.woff") format('woff'), url(" ./cabinet/constructor/font/Colus-Regular.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8318,7 +8318,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'CormorantInfant-Bold';
-	src: url(" /cabinet/constructor/font/CormorantInfant-Bold.woff") format('woff'), url(" /cabinet/constructor/font/CormorantInfant-Bold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/CormorantInfant-Bold.woff") format('woff'), url(" ./cabinet/constructor/font/CormorantInfant-Bold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8326,7 +8326,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'CormorantInfant-Light';
-	src: url(" /cabinet/constructor/font/CormorantInfant-Light.woff") format('woff'), url(" /cabinet/constructor/font/CormorantInfant-Light.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/CormorantInfant-Light.woff") format('woff'), url(" ./cabinet/constructor/font/CormorantInfant-Light.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8334,7 +8334,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'CormorantInfant-Regular';
-	src: url(" /cabinet/constructor/font/CormorantInfant-Regular.woff") format('woff'), url(" /cabinet/constructor/font/CormorantInfant-Regular.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/CormorantInfant-Regular.woff") format('woff'), url(" ./cabinet/constructor/font/CormorantInfant-Regular.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8342,7 +8342,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'HoneyVineyarde';
-	src: url(" /cabinet/constructor/font/HoneyVineyarde.woff") format('woff'), url(" /cabinet/constructor/font/HoneyVineyarde.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/HoneyVineyarde.woff") format('woff'), url(" ./cabinet/constructor/font/HoneyVineyarde.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8350,7 +8350,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'iglets';
-	src: url(" /cabinet/constructor/font/iglets.woff") format('woff'), url(" /cabinet/constructor/font/iglets.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/iglets.woff") format('woff'), url(" ./cabinet/constructor/font/iglets.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8358,7 +8358,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Patriciana';
-	src: url(" /cabinet/constructor/font/Patriciana.woff") format('woff'), url(" /cabinet/constructor/font/Patriciana.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Patriciana.woff") format('woff'), url(" ./cabinet/constructor/font/Patriciana.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8366,7 +8366,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Legende';
-	src: url(" /cabinet/constructor/font/Legende.woff") format('woff'), url(" /cabinet/constructor/font/Legende.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Legende.woff") format('woff'), url(" ./cabinet/constructor/font/Legende.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8374,7 +8374,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'LinoScript';
-	src: url(" /cabinet/constructor/font/LinoScript.woff") format('woff'), url(" /cabinet/constructor/font/LinoScript.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/LinoScript.woff") format('woff'), url(" ./cabinet/constructor/font/LinoScript.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8382,7 +8382,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Pushkin';
-	src: url(" /cabinet/constructor/font/Pushkin.woff") format('woff'), url(" /cabinet/constructor/font/Pushkin.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Pushkin.woff") format('woff'), url(" ./cabinet/constructor/font/Pushkin.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8390,7 +8390,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'ShellyAllegro';
-	src: url(" /cabinet/constructor/font/ShellyAllegro.woff") format('woff'), url(" /cabinet/constructor/font/ShellyAllegro.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/ShellyAllegro.woff") format('woff'), url(" ./cabinet/constructor/font/ShellyAllegro.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8398,7 +8398,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'AppetiteNew';
-	src: url(" /cabinet/constructor/font/AppetiteNew.woff") format('woff'), url(" /cabinet/constructor/font/AppetiteNew.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/AppetiteNew.woff") format('woff'), url(" ./cabinet/constructor/font/AppetiteNew.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8406,7 +8406,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Barocco_Initial';
-	src: url(" /cabinet/constructor/font/Barocco_Initial.woff") format('woff'), url(" /cabinet/constructor/font/Barocco_Initial.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Barocco_Initial.woff") format('woff'), url(" ./cabinet/constructor/font/Barocco_Initial.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8414,7 +8414,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'BistroC';
-	src: url(" /cabinet/constructor/font/BistroC.woff") format('woff'), url(" /cabinet/constructor/font/BistroC.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/BistroC.woff") format('woff'), url(" ./cabinet/constructor/font/BistroC.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8422,7 +8422,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Cleopatra';
-	src: url(" /cabinet/constructor/font/Cleopatra.woff") format('woff'), url(" /cabinet/constructor/font/Cleopatra.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Cleopatra.woff") format('woff'), url(" ./cabinet/constructor/font/Cleopatra.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8430,7 +8430,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Flash';
-	src: url(" /cabinet/constructor/font/Flash.woff") format('woff'), url(" /cabinet/constructor/font/Flash.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Flash.woff") format('woff'), url(" ./cabinet/constructor/font/Flash.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8438,7 +8438,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Lzax';
-	src: url(" /cabinet/constructor/font/lzax.woff") format('woff'), url(" /cabinet/constructor/font/lzax.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/lzax.woff") format('woff'), url(" ./cabinet/constructor/font/lzax.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8446,7 +8446,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Academiche';
-	src: url(" /cabinet/constructor/font/academiche.woff") format('woff'), url(" /cabinet/constructor/font/academiche.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/academiche.woff") format('woff'), url(" ./cabinet/constructor/font/academiche.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8454,7 +8454,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'CourierMOT';
-	src: url(" /cabinet/constructor/font/Flash.woff") format('woff'), url(" /cabinet/constructor/font/Flash.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Flash.woff") format('woff'), url(" ./cabinet/constructor/font/Flash.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8462,7 +8462,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Hairfont';
-	src: url(" /cabinet/constructor/font/hairfont.woff") format('woff'), url(" /cabinet/constructor/font/hairfont.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/hairfont.woff") format('woff'), url(" ./cabinet/constructor/font/hairfont.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8470,7 +8470,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Hombre';
-	src: url(" /cabinet/constructor/font/Hombre.woff") format('woff'), url(" /cabinet/constructor/font/Hombre.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Hombre.woff") format('woff'), url(" ./cabinet/constructor/font/Hombre.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8478,7 +8478,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Scandal';
-	src: url(" /cabinet/constructor/font/Scandal.woff") format('woff'), url(" /cabinet/constructor/font/Scandal.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Scandal.woff") format('woff'), url(" ./cabinet/constructor/font/Scandal.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8486,7 +8486,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Secession';
-	src: url(" /cabinet/constructor/font/Secession.woff") format('woff'), url(" /cabinet/constructor/font/Secession.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Secession.woff") format('woff'), url(" ./cabinet/constructor/font/Secession.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8494,7 +8494,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Gecko';
-	src: url(" /cabinet/constructor/font/Gecko.woff") format('woff'), url(" /cabinet/constructor/font/Gecko.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Gecko.woff") format('woff'), url(" ./cabinet/constructor/font/Gecko.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8502,7 +8502,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Malahit';
-	src: url(" /cabinet/constructor/font/Malahit.woff") format('woff'), url(" /cabinet/constructor/font/Malahit.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Malahit.woff") format('woff'), url(" ./cabinet/constructor/font/Malahit.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8510,7 +8510,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Akrobat-Bold';
-	src: url(" /cabinet/constructor/font/Akrobat-Bold.woff") format('woff'), url(" /cabinet/constructor/font/Akrobat-Bold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Akrobat-Bold.woff") format('woff'), url(" ./cabinet/constructor/font/Akrobat-Bold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8518,7 +8518,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Akrobat-ExtraLight';
-	src: url(" /cabinet/constructor/font/Akrobat-ExtraLight.woff") format('woff'), url(" /cabinet/constructor/font/Akrobat-ExtraLight.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Akrobat-ExtraLight.woff") format('woff'), url(" ./cabinet/constructor/font/Akrobat-ExtraLight.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8526,7 +8526,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Akrobat-Regular';
-	src: url(" /cabinet/constructor/font/Akrobat-Regular.woff") format('woff'), url(" /cabinet/constructor/font/Akrobat-Regular.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Akrobat-Regular.woff") format('woff'), url(" ./cabinet/constructor/font/Akrobat-Regular.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8534,7 +8534,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Bemount';
-	src: url(" /cabinet/constructor/font/Bemount.woff") format('woff'), url(" /cabinet/constructor/font/Bemount.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Bemount.woff") format('woff'), url(" ./cabinet/constructor/font/Bemount.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8542,7 +8542,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Dobrozrachniy';
-	src: url(" /cabinet/constructor/font/Dobrozrachniy.woff") format('woff'), url(" /cabinet/constructor/font/Dobrozrachniy.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Dobrozrachniy.woff") format('woff'), url(" ./cabinet/constructor/font/Dobrozrachniy.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8550,7 +8550,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Mixa';
-	src: url(" /cabinet/constructor/font/Mixa.woff") format('woff'), url(" /cabinet/constructor/font/Mixa.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Mixa.woff") format('woff'), url(" ./cabinet/constructor/font/Mixa.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8558,7 +8558,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Gora';
-	src: url(" /cabinet/constructor/font/Gora.woff") format('woff'), url(" /cabinet/constructor/font/Gora.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Gora.woff") format('woff'), url(" ./cabinet/constructor/font/Gora.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8566,7 +8566,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'GUERRILLA';
-	src: url(" /cabinet/constructor/font/GUERRILLA.woff") format('woff'), url(" /cabinet/constructor/font/GUERRILLA.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/GUERRILLA.woff") format('woff'), url(" ./cabinet/constructor/font/GUERRILLA.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8574,7 +8574,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'IkraSlab';
-	src: url(" /cabinet/constructor/font/IkraSlab.woff") format('woff'), url(" /cabinet/constructor/font/IkraSlab.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/IkraSlab.woff") format('woff'), url(" ./cabinet/constructor/font/IkraSlab.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8582,7 +8582,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'HeadR';
-	src: url(" /cabinet/constructor/font/HeadR.woff") format('woff'), url(" /cabinet/constructor/font/HeadR.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/HeadR.woff") format('woff'), url(" ./cabinet/constructor/font/HeadR.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8590,7 +8590,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'RustG';
-	src: url(" /cabinet/constructor/font/RustG.woff") format('woff'), url(" /cabinet/constructor/font/RustG.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/RustG.woff") format('woff'), url(" ./cabinet/constructor/font/RustG.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8598,7 +8598,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'ScriptR';
-	src: url(" /cabinet/constructor/font/ScriptR.woff") format('woff'), url(" /cabinet/constructor/font/ScriptR.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/ScriptR.woff") format('woff'), url(" ./cabinet/constructor/font/ScriptR.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8606,7 +8606,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Katona';
-	src: url(" /cabinet/constructor/font/Katona.woff") format('woff'), url(" /cabinet/constructor/font/Katona.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Katona.woff") format('woff'), url(" ./cabinet/constructor/font/Katona.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8614,7 +8614,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Magnolia';
-	src: url(" /cabinet/constructor/font/Magnolia.woff") format('woff'), url(" /cabinet/constructor/font/Magnolia.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Magnolia.woff") format('woff'), url(" ./cabinet/constructor/font/Magnolia.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8622,7 +8622,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Oks';
-	src: url(" /cabinet/constructor/font/Oks.woff") format('woff'), url(" /cabinet/constructor/font/Oks.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Oks.woff") format('woff'), url(" ./cabinet/constructor/font/Oks.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8630,7 +8630,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Krabuler';
-	src: url(" /cabinet/constructor/font/Krabuler.woff") format('woff'), url(" /cabinet/constructor/font/Krabuler.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Krabuler.woff") format('woff'), url(" ./cabinet/constructor/font/Krabuler.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8638,7 +8638,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Permian';
-	src: url(" /cabinet/constructor/font/permian.woff") format('woff'), url(" /cabinet/constructor/font/permian.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/permian.woff") format('woff'), url(" ./cabinet/constructor/font/permian.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8646,7 +8646,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Avantetitul';
-	src: url(" /cabinet/constructor/font/avantetitulinline.woff") format('woff'), url(" /cabinet/constructor/font/avantetitulinline.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/avantetitulinline.woff") format('woff'), url(" ./cabinet/constructor/font/avantetitulinline.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8654,7 +8654,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Acquest';
-	src: url(" /cabinet/constructor/font/acquest.woff") format('woff'), url(" /cabinet/constructor/font/acquest.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/acquest.woff") format('woff'), url(" ./cabinet/constructor/font/acquest.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8662,7 +8662,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Adine';
-	src: url(" /cabinet/constructor/font/adine.woff") format('woff'), url(" /cabinet/constructor/font/adine.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/adine.woff") format('woff'), url(" ./cabinet/constructor/font/adine.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8670,7 +8670,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'American-retro';
-	src: url(" /cabinet/constructor/font/american-retro.woff") format('woff'), url(" /cabinet/constructor/font/american-retro.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/american-retro.woff") format('woff'), url(" ./cabinet/constructor/font/american-retro.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8678,7 +8678,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Anastasia';
-	src: url(" /cabinet/constructor/font/anastasia.woff") format('woff'), url(" /cabinet/constructor/font/anastasia.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/anastasia.woff") format('woff'), url(" ./cabinet/constructor/font/anastasia.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8686,7 +8686,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Anfisa-grotesk';
-	src: url(" /cabinet/constructor/font/anfisa-grotesk.woff") format('woff'), url(" /cabinet/constructor/font/anfisa-grotesk.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/anfisa-grotesk.woff") format('woff'), url(" ./cabinet/constructor/font/anfisa-grotesk.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8694,7 +8694,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Aquarelle';
-	src: url(" /cabinet/constructor/font/aquarelle.woff") format('woff'), url(" /cabinet/constructor/font/aquarelle.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/aquarelle.woff") format('woff'), url(" ./cabinet/constructor/font/aquarelle.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8702,7 +8702,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Arbat';
-	src: url(" /cabinet/constructor/font/arbat.woff") format('woff'), url(" /cabinet/constructor/font/arbat.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/arbat.woff") format('woff'), url(" ./cabinet/constructor/font/arbat.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8710,7 +8710,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Arctika';
-	src: url(" /cabinet/constructor/font/arctika.woff") format('woff'), url(" /cabinet/constructor/font/arctika.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/arctika.woff") format('woff'), url(" ./cabinet/constructor/font/arctika.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8718,7 +8718,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Ariston';
-	src: url(" /cabinet/constructor/font/ariston.woff") format('woff'), url(" /cabinet/constructor/font/ariston.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/ariston.woff") format('woff'), url(" ./cabinet/constructor/font/ariston.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8726,7 +8726,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Artscript';
-	src: url(" /cabinet/constructor/font/artscript.woff") format('woff'), url(" /cabinet/constructor/font/artscript.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/artscript.woff") format('woff'), url(" ./cabinet/constructor/font/artscript.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8734,7 +8734,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Aurora';
-	src: url(" /cabinet/constructor/font/aurora.woff") format('woff'), url(" /cabinet/constructor/font/aurora.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/aurora.woff") format('woff'), url(" ./cabinet/constructor/font/aurora.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8742,7 +8742,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Avalon-medium';
-	src: url(" /cabinet/constructor/font/avalon-medium.woff") format('woff'), url(" /cabinet/constructor/font/avalon-medium.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/avalon-medium.woff") format('woff'), url(" ./cabinet/constructor/font/avalon-medium.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8750,7 +8750,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Bip';
-	src: url(" /cabinet/constructor/font/bip.woff") format('woff'), url(" /cabinet/constructor/font/bip.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/bip.woff") format('woff'), url(" ./cabinet/constructor/font/bip.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8758,7 +8758,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Bolero';
-	src: url(" /cabinet/constructor/font/bolero.woff") format('woff'), url(" /cabinet/constructor/font/bolero.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/bolero.woff") format('woff'), url(" ./cabinet/constructor/font/bolero.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8766,7 +8766,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Boyarsky';
-	src: url(" /cabinet/constructor/font/boyarsky.woff") format('woff'), url(" /cabinet/constructor/font/boyarsky.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/boyarsky.woff") format('woff'), url(" ./cabinet/constructor/font/boyarsky.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8774,7 +8774,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Breeze';
-	src: url(" /cabinet/constructor/font/breeze.woff") format('woff'), url(" /cabinet/constructor/font/breeze.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/breeze.woff") format('woff'), url(" ./cabinet/constructor/font/breeze.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8782,7 +8782,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Brushtype';
-	src: url(" /cabinet/constructor/font/brushtype.woff") format('woff'), url(" /cabinet/constructor/font/brushtype.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/brushtype.woff") format('woff'), url(" ./cabinet/constructor/font/brushtype.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8790,7 +8790,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Brushtype-bold';
-	src: url(" /cabinet/constructor/font/brushtype-bold.woff") format('woff'), url(" /cabinet/constructor/font/brushtype-bold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/brushtype-bold.woff") format('woff'), url(" ./cabinet/constructor/font/brushtype-bold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8798,7 +8798,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Calligraph';
-	src: url(" /cabinet/constructor/font/calligraph.woff") format('woff'), url(" /cabinet/constructor/font/calligraph.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/calligraph.woff") format('woff'), url(" ./cabinet/constructor/font/calligraph.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8806,7 +8806,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Cassandra';
-	src: url(" /cabinet/constructor/font/cassandra.woff") format('woff'), url(" /cabinet/constructor/font/cassandra.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/cassandra.woff") format('woff'), url(" ./cabinet/constructor/font/cassandra.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8814,7 +8814,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Corinthia';
-	src: url(" /cabinet/constructor/font/corinthia.woff") format('woff'), url(" /cabinet/constructor/font/corinthia.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/corinthia.woff") format('woff'), url(" ./cabinet/constructor/font/corinthia.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8822,7 +8822,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Ekaterina';
-	src: url(" /cabinet/constructor/font/ekaterina.woff") format('woff'), url(" /cabinet/constructor/font/ekaterina.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/ekaterina.woff") format('woff'), url(" ./cabinet/constructor/font/ekaterina.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8830,7 +8830,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'esenin';
-	src: url(" /cabinet/constructor/font/esenin.woff") format('woff'), url(" /cabinet/constructor/font/esenin.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/esenin.woff") format('woff'), url(" ./cabinet/constructor/font/esenin.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8838,7 +8838,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Flamme';
-	src: url(" /cabinet/constructor/font/flamme.woff") format('woff'), url(" /cabinet/constructor/font/flamme.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/flamme.woff") format('woff'), url(" ./cabinet/constructor/font/flamme.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8846,7 +8846,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Heinrichscript';
-	src: url(" /cabinet/constructor/font/heinrichscript.woff") format('woff'), url(" /cabinet/constructor/font/heinrichscript.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/heinrichscript.woff") format('woff'), url(" ./cabinet/constructor/font/heinrichscript.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8854,7 +8854,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Junegull';
-	src: url(" /cabinet/constructor/font/junegull.woff") format('woff'), url(" /cabinet/constructor/font/junegull.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/junegull.woff") format('woff'), url(" ./cabinet/constructor/font/junegull.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8862,7 +8862,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Mon-amour';
-	src: url(" /cabinet/constructor/font/mon-amour.woff") format('woff'), url(" /cabinet/constructor/font/mon-amour.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/mon-amour.woff") format('woff'), url(" ./cabinet/constructor/font/mon-amour.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8870,7 +8870,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Mon-amour-two';
-	src: url(" /cabinet/constructor/font/mon-amour-two.woff") format('woff'), url(" /cabinet/constructor/font/mon-amour-two.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/mon-amour-two.woff") format('woff'), url(" ./cabinet/constructor/font/mon-amour-two.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8878,7 +8878,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Olgactt';
-	src: url(" /cabinet/constructor/font/olgactt.woff") format('woff'), url(" /cabinet/constructor/font/olgactt.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/olgactt.woff") format('woff'), url(" ./cabinet/constructor/font/olgactt.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8886,7 +8886,7 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Olietta';
-	src: url(" /cabinet/constructor/font/olietta.woff") format('woff'), url(" /cabinet/constructor/font/olietta.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/olietta.woff") format('woff'), url(" ./cabinet/constructor/font/olietta.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -8894,441 +8894,441 @@ span.textMarker {
 
 @font-face {
 	font-family: 'Parsek';
-	src: url(" /cabinet/constructor/font/parsek.woff") format('woff'), url(" /cabinet/constructor/font/parsek.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/parsek.woff") format('woff'), url(" ./cabinet/constructor/font/parsek.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Parsek';
-	src: url(" /cabinet/constructor/font/parsek.woff") format('woff'), url(" /cabinet/constructor/font/parsek.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/parsek.woff") format('woff'), url(" ./cabinet/constructor/font/parsek.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Rotonda';
-	src: url(" /cabinet/constructor/font/RotondaC.woff") format('woff'), url(" /cabinet/constructor/font/RotondaC.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/RotondaC.woff") format('woff'), url(" ./cabinet/constructor/font/RotondaC.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Rotonda Bold';
-	src: url(" /cabinet/constructor/font/Rotonda.woff") format('woff'), url(" /cabinet/constructor/font/Rotonda.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Rotonda.woff") format('woff'), url(" ./cabinet/constructor/font/Rotonda.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Popular';
-	src: url(" /cabinet/constructor/font/popular.woff") format('woff'), url(" /cabinet/constructor/font/popular.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/popular.woff") format('woff'), url(" ./cabinet/constructor/font/popular.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'President';
-	src: url(" /cabinet/constructor/font/president.woff") format('woff'), url(" /cabinet/constructor/font/president.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/president.woff") format('woff'), url(" ./cabinet/constructor/font/president.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Rosamunda';
-	src: url(" /cabinet/constructor/font/rosamunda.woff") format('woff'), url(" /cabinet/constructor/font/rosamunda.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/rosamunda.woff") format('woff'), url(" ./cabinet/constructor/font/rosamunda.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Scriptorama';
-	src: url(" /cabinet/constructor/font/scriptorama.woff") format('woff'), url(" /cabinet/constructor/font/scriptorama.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/scriptorama.woff") format('woff'), url(" ./cabinet/constructor/font/scriptorama.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Tagirctt';
-	src: url(" /cabinet/constructor/font/tagirctt.woff") format('woff'), url(" /cabinet/constructor/font/tagirctt.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/tagirctt.woff") format('woff'), url(" ./cabinet/constructor/font/tagirctt.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Teslics';
-	src: url(" /cabinet/constructor/font/teslics.woff") format('woff'), url(" /cabinet/constructor/font/teslics.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/teslics.woff") format('woff'), url(" ./cabinet/constructor/font/teslics.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'KZ_Nautilus';
-	src: url(" /cabinet/constructor/font/KZ_Nautilus.woff") format('woff'), url(" /cabinet/constructor/font/KZ_Nautilus.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/KZ_Nautilus.woff") format('woff'), url(" ./cabinet/constructor/font/KZ_Nautilus.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Madelyn';
-	src: url(" /cabinet/constructor/font/madelyn.woff") format('woff'), url(" /cabinet/constructor/font/madelyn.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/madelyn.woff") format('woff'), url(" ./cabinet/constructor/font/madelyn.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Doodles';
-	src: url(" /cabinet/constructor/font/doodles.woff") format('woff'), url(" /cabinet/constructor/font/doodles.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/doodles.woff") format('woff'), url(" ./cabinet/constructor/font/doodles.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Alphabet';
-	src: url(" /cabinet/constructor/font/Alphabet.woff") format('woff'), url(" /cabinet/constructor/font/Alphabet.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Alphabet.woff") format('woff'), url(" ./cabinet/constructor/font/Alphabet.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Skripka';
-	src: url(" /cabinet/constructor/font/Skripka.woff") format('woff'), url(" /cabinet/constructor/font/Skripka.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Skripka.woff") format('woff'), url(" ./cabinet/constructor/font/Skripka.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Handler';
-	src: url(" /cabinet/constructor/font/Handler.woff") format('woff'), url(" /cabinet/constructor/font/Handler.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Handler.woff") format('woff'), url(" ./cabinet/constructor/font/Handler.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Bondy';
-	src: url(" /cabinet/constructor/font/Bondy.woff") format('woff'), url(" /cabinet/constructor/font/Bondy.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Bondy.woff") format('woff'), url(" ./cabinet/constructor/font/Bondy.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Marker';
-	src: url(" /cabinet/constructor/font/Marker.woff") format('woff'), url(" /cabinet/constructor/font/Marker.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Marker.woff") format('woff'), url(" ./cabinet/constructor/font/Marker.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Swing';
-	src: url(" /cabinet/constructor/font/Swing.woff") format('woff'), url(" /cabinet/constructor/font/Swing.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Swing.woff") format('woff'), url(" ./cabinet/constructor/font/Swing.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Fastmarker';
-	src: url(" /cabinet/constructor/font/Fastmarker.woff") format('woff'), url(" /cabinet/constructor/font/Fastmarker.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Fastmarker.woff") format('woff'), url(" ./cabinet/constructor/font/Fastmarker.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Julia';
-	src: url(" /cabinet/constructor/font/Julia.woff") format('woff'), url(" /cabinet/constructor/font/Julia.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Julia.woff") format('woff'), url(" ./cabinet/constructor/font/Julia.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Fatpencil';
-	src: url(" /cabinet/constructor/font/Fatpencil.woff") format('woff'), url(" /cabinet/constructor/font/Fatpencil.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Fatpencil.woff") format('woff'), url(" ./cabinet/constructor/font/Fatpencil.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Antua';
-	src: url(" /cabinet/constructor/font/Antua.woff") format('woff'), url(" /cabinet/constructor/font/Antua.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Antua.woff") format('woff'), url(" ./cabinet/constructor/font/Antua.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Lordica';
-	src: url(" /cabinet/constructor/font/Lordica.woff") format('woff'), url(" /cabinet/constructor/font/Lordica.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Lordica.woff") format('woff'), url(" ./cabinet/constructor/font/Lordica.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Vena';
-	src: url(" /cabinet/constructor/font/Vena.woff") format('woff'), url(" /cabinet/constructor/font/Vena.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Vena.woff") format('woff'), url(" ./cabinet/constructor/font/Vena.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Truehand';
-	src: url(" /cabinet/constructor/font/Truehand.woff") format('woff'), url(" /cabinet/constructor/font/Truehand.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Truehand.woff") format('woff'), url(" ./cabinet/constructor/font/Truehand.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Slowpen';
-	src: url(" /cabinet/constructor/font/Slowpen.woff") format('woff'), url(" /cabinet/constructor/font/Slowpen.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Slowpen.woff") format('woff'), url(" ./cabinet/constructor/font/Slowpen.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Callilia';
-	src: url(" /cabinet/constructor/font/Callilia.woff") format('woff'), url(" /cabinet/constructor/font/Callilia.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Callilia.woff") format('woff'), url(" ./cabinet/constructor/font/Callilia.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'BuxtonSketch';
-	src: url(" /cabinet/constructor/font/BuxtonSketch.woff") format('woff'), url(" /cabinet/constructor/font/BuxtonSketch.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/BuxtonSketch.woff") format('woff'), url(" ./cabinet/constructor/font/BuxtonSketch.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Tetcher';
-	src: url(" /cabinet/constructor/font/Tetcher.woff") format('woff'), url(" /cabinet/constructor/font/Tetcher.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Tetcher.woff") format('woff'), url(" ./cabinet/constructor/font/Tetcher.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'AcquestScript';
-	src: url(" /cabinet/constructor/font/acquest-script.woff") format('woff'), url(" /cabinet/constructor/font/acquest-script.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/acquest-script.woff") format('woff'), url(" ./cabinet/constructor/font/acquest-script.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Adlery';
-	src: url(" /cabinet/constructor/font/Adlery.woff") format('woff'), url(" /cabinet/constructor/font/Adlery.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Adlery.woff") format('woff'), url(" ./cabinet/constructor/font/Adlery.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'CaveatBold';
-	src: url(" /cabinet/constructor/font/CaveatBold.woff") format('woff'), url(" /cabinet/constructor/font/CaveatBold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/CaveatBold.woff") format('woff'), url(" ./cabinet/constructor/font/CaveatBold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Athenic';
-	src: url(" /cabinet/constructor/font/Athenic.woff") format('woff'), url(" /cabinet/constructor/font/Athenic.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Athenic.woff") format('woff'), url(" ./cabinet/constructor/font/Athenic.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'CaveatRegular';
-	src: url(" /cabinet/constructor/font/CaveatRegular.woff") format('woff'), url(" /cabinet/constructor/font/CaveatRegular.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/CaveatRegular.woff") format('woff'), url(" ./cabinet/constructor/font/CaveatRegular.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'CirceBold';
-	src: url(" /cabinet/constructor/font/CirceBold.woff") format('woff'), url(" /cabinet/constructor/font/CirceBold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/CirceBold.woff") format('woff'), url(" ./cabinet/constructor/font/CirceBold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'CirceExtraBold';
-	src: url(" /cabinet/constructor/font/CirceExtraBold.woff") format('woff'), url(" /cabinet/constructor/font/CirceExtraBold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/CirceExtraBold.woff") format('woff'), url(" ./cabinet/constructor/font/CirceExtraBold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Cour';
-	src: url(" /cabinet/constructor/font/Cour.woff") format('woff'), url(" /cabinet/constructor/font/Cour.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Cour.woff") format('woff'), url(" ./cabinet/constructor/font/Cour.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Courbd';
-	src: url(" /cabinet/constructor/font/Courbd.woff") format('woff'), url(" /cabinet/constructor/font/Courbd.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Courbd.woff") format('woff'), url(" ./cabinet/constructor/font/Courbd.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Courbi';
-	src: url(" /cabinet/constructor/font/Courbi.woff") format('woff'), url(" /cabinet/constructor/font/Courbi.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Courbi.woff") format('woff'), url(" ./cabinet/constructor/font/Courbi.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Couri';
-	src: url(" /cabinet/constructor/font/Couri.woff") format('woff'), url(" /cabinet/constructor/font/Couri.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Couri.woff") format('woff'), url(" ./cabinet/constructor/font/Couri.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'NeueBold';
-	src: url(" /cabinet/constructor/font/NeueBold.woff") format('woff'), url(" /cabinet/constructor/font/NeueBold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/NeueBold.woff") format('woff'), url(" ./cabinet/constructor/font/NeueBold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'NeueLight';
-	src: url(" /cabinet/constructor/font/NeueLight.woff") format('woff'), url(" /cabinet/constructor/font/NeueLight.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/NeueLight.woff") format('woff'), url(" ./cabinet/constructor/font/NeueLight.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'NeueRoman';
-	src: url(" /cabinet/constructor/font/NeueRoman.woff") format('woff'), url(" /cabinet/constructor/font/NeueRoman.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/NeueRoman.woff") format('woff'), url(" ./cabinet/constructor/font/NeueRoman.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'ElowenCaps';
-	src: url(" /cabinet/constructor/font/ElowenCaps.woff") format('woff'), url(" /cabinet/constructor/font/ElowenCaps.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/ElowenCaps.woff") format('woff'), url(" ./cabinet/constructor/font/ElowenCaps.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'LeoHand';
-	src: url(" /cabinet/constructor/font/LeoHand.woff") format('woff'), url(" /cabinet/constructor/font/LeoHand.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/LeoHand.woff") format('woff'), url(" ./cabinet/constructor/font/LeoHand.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'LeoHandLight';
-	src: url(" /cabinet/constructor/font/LeoHandLight.woff") format('woff'), url(" /cabinet/constructor/font/LeoHandLight.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/LeoHandLight.woff") format('woff'), url(" ./cabinet/constructor/font/LeoHandLight.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'LoreleiPrint';
-	src: url(" /cabinet/constructor/font/LoreleiPrint.woff") format('woff'), url(" /cabinet/constructor/font/LoreleiPrint.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/LoreleiPrint.woff") format('woff'), url(" ./cabinet/constructor/font/LoreleiPrint.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Neucha';
-	src: url(" /cabinet/constructor/font/Neucha.woff") format('woff'), url(" /cabinet/constructor/font/Neucha.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Neucha.woff") format('woff'), url(" ./cabinet/constructor/font/Neucha.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'BlancSeingLight';
-	src: url(" /cabinet/constructor/font/BlancSeingLight.woff") format('woff'), url(" /cabinet/constructor/font/BlancSeingLight.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/BlancSeingLight.woff") format('woff'), url(" ./cabinet/constructor/font/BlancSeingLight.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'BlancSeingBold';
-	src: url(" /cabinet/constructor/font/BlancSeingBold.woff") format('woff'), url(" /cabinet/constructor/font/BlancSeingBold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/BlancSeingBold.woff") format('woff'), url(" ./cabinet/constructor/font/BlancSeingBold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'A_Empirial';
-	src: url(" /cabinet/constructor/font/A_Empirial.woff") format('woff'), url(" /cabinet/constructor/font/A_Empirial.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/A_Empirial.woff") format('woff'), url(" ./cabinet/constructor/font/A_Empirial.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Brusher';
-	src: url(" /cabinet/constructor/font/Brusher.woff") format('woff'), url(" /cabinet/constructor/font/Brusher.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Brusher.woff") format('woff'), url(" ./cabinet/constructor/font/Brusher.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Ribbon';
-	src: url(" /cabinet/constructor/font/Ribbon.woff") format('woff'), url(" /cabinet/constructor/font/Ribbon.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Ribbon.woff") format('woff'), url(" ./cabinet/constructor/font/Ribbon.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Gogol';
-	src: url(" /cabinet/constructor/font/Gogol.woff") format('woff'), url(" /cabinet/constructor/font/Gogol.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Gogol.woff") format('woff'), url(" ./cabinet/constructor/font/Gogol.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Koala';
-	src: url(" /cabinet/constructor/font/Koala.woff") format('woff'), url(" /cabinet/constructor/font/Koala.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Koala.woff") format('woff'), url(" ./cabinet/constructor/font/Koala.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Manuscript';
-	src: url(" /cabinet/constructor/font/Manuscript.woff") format('woff'), url(" /cabinet/constructor/font/Manuscript.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Manuscript.woff") format('woff'), url(" ./cabinet/constructor/font/Manuscript.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Nicoletta';
-	src: url(" /cabinet/constructor/font/Nicoletta.woff") format('woff'), url(" /cabinet/constructor/font/Nicoletta.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Nicoletta.woff") format('woff'), url(" ./cabinet/constructor/font/Nicoletta.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Segoesc';
-	src: url(" /cabinet/constructor/font/Segoesc.woff") format('woff'), url(" /cabinet/constructor/font/Segoesc.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Segoesc.woff") format('woff'), url(" ./cabinet/constructor/font/Segoesc.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Segoescb';
-	src: url(" /cabinet/constructor/font/Segoescb.woff") format('woff'), url(" /cabinet/constructor/font/Segoescb.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Segoescb.woff") format('woff'), url(" ./cabinet/constructor/font/Segoescb.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Scripka';
-	src: url(" /cabinet/constructor/font/Scripka.woff") format('woff'), url(" /cabinet/constructor/font/Scripka.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Scripka.woff") format('woff'), url(" ./cabinet/constructor/font/Scripka.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'TeddyBear';
-	src: url(" /cabinet/constructor/font/TeddyBear.woff") format('woff'), url(" /cabinet/constructor/font/TeddyBear.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/TeddyBear.woff") format('woff'), url(" ./cabinet/constructor/font/TeddyBear.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Zing';
-	src: url(" /cabinet/constructor/font/Zing.woff") format('woff'), url(" /cabinet/constructor/font/Zing.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Zing.woff") format('woff'), url(" ./cabinet/constructor/font/Zing.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
@@ -15365,7 +15365,7 @@ i.check {
 
 @font-face {
 	font-family: 'Annabelle';
-	src: url(" /cabinet/constructor/font/annabelle.woff") format('woff'), url(" /cabinet/constructor/font/annabelle.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/annabelle.woff") format('woff'), url(" ./cabinet/constructor/font/annabelle.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15373,7 +15373,7 @@ i.check {
 
 @font-face {
 	font-family: 'AmericanCaptain';
-	src: url(" /cabinet/constructor/font/AmericanCaptain.woff") format('woff'), url(" /cabinet/constructor/font/AmericanCaptain.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/AmericanCaptain.woff") format('woff'), url(" ./cabinet/constructor/font/AmericanCaptain.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15381,7 +15381,7 @@ i.check {
 
 @font-face {
 	font-family: 'Agoniae';
-	src: url("/cabinet/constructor/font/Agoniae.woff") format('woff'), url("/cabinet/constructor/font/Agoniae.ttf") format('truetype');
+	src: url("./cabinet/constructor/font/Agoniae.woff") format('woff'), url("./cabinet/constructor/font/Agoniae.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15389,7 +15389,7 @@ i.check {
 
 @font-face {
 	font-family: 'Calme Extra';
-	src: url(" /cabinet/constructor/font/CalmExtra.woff") format('woff'), url(" /cabinet/constructor/font/CalmExtra.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/CalmExtra.woff") format('woff'), url(" ./cabinet/constructor/font/CalmExtra.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15397,7 +15397,7 @@ i.check {
 
 @font-face {
 	font-family: 'Calme Bold';
-	src: url(" /cabinet/constructor/font/CalmBold.woff") format('woff'), url(" /cabinet/constructor/font/CalmBold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/CalmBold.woff") format('woff'), url(" ./cabinet/constructor/font/CalmBold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15405,7 +15405,7 @@ i.check {
 
 @font-face {
 	font-family: 'Aquator';
-	src: url(" /cabinet/constructor/font/Aquatory.otf") format("opentype");
+	src: url(" ./cabinet/constructor/font/Aquatory.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15413,7 +15413,7 @@ i.check {
 
 @font-face {
 	font-family: 'Calme-EB';
-	src: url(" /cabinet/constructor/font/Calmius-ExtraBold.otf") format("opentype");
+	src: url(" ./cabinet/constructor/font/Calmius-ExtraBold.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15421,7 +15421,7 @@ i.check {
 
 @font-face {
 	font-family: 'Forlove';
-	src: url(" /cabinet/constructor/font/forlove.otf") format("opentype");
+	src: url(" ./cabinet/constructor/font/forlove.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15429,7 +15429,7 @@ i.check {
 
 @font-face {
 	font-family: 'Vetrino';
-	src: url(" /cabinet/constructor/font/Vetrino.otf") format("opentype");
+	src: url(" ./cabinet/constructor/font/Vetrino.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15437,7 +15437,7 @@ i.check {
 
 @font-face {
 	font-family: 'Betmo';
-	src: url(" /cabinet/constructor/font/Betmo.otf") format("opentype");
+	src: url(" ./cabinet/constructor/font/Betmo.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15445,7 +15445,7 @@ i.check {
 
 @font-face {
 	font-family: 'Cooltura_s';
-	src: url(" /cabinet/constructor/font/Cooltura_s.otf") format("opentype");
+	src: url(" ./cabinet/constructor/font/Cooltura_s.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15453,7 +15453,7 @@ i.check {
 
 @font-face {
 	font-family: 'Cooltura_l';
-	src: url(" /cabinet/constructor/font/Cooltura_l.otf") format("opentype");
+	src: url(" ./cabinet/constructor/font/Cooltura_l.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15461,7 +15461,7 @@ i.check {
 
 @font-face {
 	font-family: 'Cooltura';
-	src: url(" /cabinet/constructor/font/Cooltura.otf") format("opentype");
+	src: url(" ./cabinet/constructor/font/Cooltura.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15469,7 +15469,7 @@ i.check {
 
 @font-face {
 	font-family: 'EVelikaya';
-	src: url(" /cabinet/constructor/font/EVelikaya.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/EVelikaya.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15477,7 +15477,7 @@ i.check {
 
 @font-face {
 	font-family: 'Lithium';
-	src: url(" /cabinet/constructor/font/Lithium.otf") format("opentype");
+	src: url(" ./cabinet/constructor/font/Lithium.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15485,7 +15485,7 @@ i.check {
 
 @font-face {
 	font-family: 'SoulAdvent';
-	src: url(" /cabinet/constructor/font/SoulAdvent.otf") format("opentype");
+	src: url(" ./cabinet/constructor/font/SoulAdvent.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15493,7 +15493,7 @@ i.check {
 
 @font-face {
 	font-family: 'SoulSymbols';
-	src: url(" /cabinet/constructor/font/SoulSymbols.otf") format("opentype");
+	src: url(" ./cabinet/constructor/font/SoulSymbols.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15501,7 +15501,7 @@ i.check {
 
 @font-face {
 	font-family: 'Thedream';
-	src: url(" /cabinet/constructor/font/Thedream.otf") format("opentype");
+	src: url(" ./cabinet/constructor/font/Thedream.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15509,7 +15509,7 @@ i.check {
 
 @font-face {
 	font-family: 'Colus';
-	src: url(" /cabinet/constructor/font/Colus.otf") format("opentype");
+	src: url(" ./cabinet/constructor/font/Colus.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15517,7 +15517,7 @@ i.check {
 
 @font-face {
 	font-family: 'Mettlach';
-	src: url(" /cabinet/constructor/font/Mettlach.otf") format("opentype");
+	src: url(" ./cabinet/constructor/font/Mettlach.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15525,7 +15525,7 @@ i.check {
 
 @font-face {
 	font-family: 'Bardo';
-	src: url(" /cabinet/constructor/font/Bardo.otf") format("opentype");
+	src: url(" ./cabinet/constructor/font/Bardo.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15533,7 +15533,7 @@ i.check {
 
 @font-face {
 	font-family: 'Storytella';
-	src: url(" /cabinet/constructor/font/Storytella.otf") format("opentype");
+	src: url(" ./cabinet/constructor/font/Storytella.otf") format("opentype");
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15541,7 +15541,7 @@ i.check {
 
 @font-face {
 	font-family: 'Karlissta';
-	src: url(" /cabinet/constructor/font/Karlissta.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Karlissta.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15549,7 +15549,7 @@ i.check {
 
 @font-face {
 	font-family: 'LighthausRegular';
-	src: url(" /cabinet/constructor/font/LighthausRegular.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/LighthausRegular.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15557,7 +15557,7 @@ i.check {
 
 @font-face {
 	font-family: 'Mettlach';
-	src: url(" /cabinet/constructor/font/Mettlach.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Mettlach.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15565,7 +15565,7 @@ i.check {
 
 @font-face {
 	font-family: 'Onest-Black';
-	src: url(" /cabinet/constructor/font/Onest-Black.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Onest-Black.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15573,7 +15573,7 @@ i.check {
 
 @font-face {
 	font-family: 'Onest-Bold';
-	src: url(" /cabinet/constructor/font/Onest-Bold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Onest-Bold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15581,7 +15581,7 @@ i.check {
 
 @font-face {
 	font-family: 'Onest-ExtraBold';
-	src: url(" /cabinet/constructor/font/Onest-ExtraBold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Onest-ExtraBold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15589,7 +15589,7 @@ i.check {
 
 @font-face {
 	font-family: 'Onest-Medium';
-	src: url(" /cabinet/constructor/font/Onest-Medium.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Onest-Medium.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15597,7 +15597,7 @@ i.check {
 
 @font-face {
 	font-family: 'Onest-Thin';
-	src: url(" /cabinet/constructor/font/Onest-Thin.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Onest-Thin.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15605,7 +15605,7 @@ i.check {
 
 @font-face {
 	font-family: 'Playfair_t';
-	src: url(" /cabinet/constructor/font/Playfair_t.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Playfair_t.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15613,7 +15613,7 @@ i.check {
 
 @font-face {
 	font-family: 'Playfair_m';
-	src: url(" /cabinet/constructor/font/Playfair_m.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Playfair_m.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15621,7 +15621,7 @@ i.check {
 
 @font-face {
 	font-family: 'Playfair_v';
-	src: url(" /cabinet/constructor/font/Playfair_v.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Playfair_v.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15629,7 +15629,7 @@ i.check {
 
 @font-face {
 	font-family: 'Playfair';
-	src: url(" /cabinet/constructor/font/Playfair.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Playfair.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15637,7 +15637,7 @@ i.check {
 
 @font-face {
 	font-family: 'PoiretOne';
-	src: url(" /cabinet/constructor/font/PoiretOne.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/PoiretOne.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15645,7 +15645,7 @@ i.check {
 
 @font-face {
 	font-family: 'Prata';
-	src: url(" /cabinet/constructor/font/Prata.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Prata.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15653,7 +15653,7 @@ i.check {
 
 @font-face {
 	font-family: 'Santa Catarina';
-	src: url(" /cabinet/constructor/font/Santa Catarina.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Santa Catarina.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15661,7 +15661,7 @@ i.check {
 
 @font-face {
 	font-family: 'Sweet Mavka';
-	src: url(" /cabinet/constructor/font/Sweet Mavka.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Sweet Mavka.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15669,7 +15669,7 @@ i.check {
 
 @font-face {
 	font-family: 'Thedream';
-	src: url(" /cabinet/constructor/font/Thedream.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Thedream.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15677,7 +15677,7 @@ i.check {
 
 @font-face {
 	font-family: 'TildaSans-B';
-	src: url(" /cabinet/constructor/font/TildaSans-B.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/TildaSans-B.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15685,7 +15685,7 @@ i.check {
 
 @font-face {
 	font-family: 'TildaSans-EB';
-	src: url(" /cabinet/constructor/font/TildaSans-EB.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/TildaSans-EB.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15693,7 +15693,7 @@ i.check {
 
 @font-face {
 	font-family: 'TildaSans-Ex';
-	src: url(" /cabinet/constructor/font/TildaSans-Ex.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/TildaSans-Ex.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15701,7 +15701,7 @@ i.check {
 
 @font-face {
 	font-family: 'TildaSans-L';
-	src: url(" /cabinet/constructor/font/TildaSans-L.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/TildaSans-L.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15709,7 +15709,7 @@ i.check {
 
 @font-face {
 	font-family: 'TildaSans-M';
-	src: url(" /cabinet/constructor/font/TildaSans-M.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/TildaSans-M.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15717,7 +15717,7 @@ i.check {
 
 @font-face {
 	font-family: 'TildaSans-R';
-	src: url(" /cabinet/constructor/font/TildaSans-R.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/TildaSans-R.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15725,7 +15725,7 @@ i.check {
 
 @font-face {
 	font-family: 'TildaSansVF';
-	src: url(" /cabinet/constructor/font/TildaSansVF.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/TildaSansVF.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15733,7 +15733,7 @@ i.check {
 
 @font-face {
 	font-family: 'Unboun-B';
-	src: url(" /cabinet/constructor/font/Unboun-B.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Unboun-B.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15741,7 +15741,7 @@ i.check {
 
 @font-face {
 	font-family: 'Unboun-Bl';
-	src: url(" /cabinet/constructor/font/Unboun-Bl.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Unboun-Bl.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15749,7 +15749,7 @@ i.check {
 
 @font-face {
 	font-family: 'Unboun-El';
-	src: url(" /cabinet/constructor/font/Unboun-El.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Unboun-El.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15757,7 +15757,7 @@ i.check {
 
 @font-face {
 	font-family: 'Unboun';
-	src: url(" /cabinet/constructor/font/Unboun.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Unboun.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15765,7 +15765,7 @@ i.check {
 
 @font-face {
 	font-family: 'Ustroke';
-	src: url(" /cabinet/constructor/font/Ustroke.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Ustroke.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15773,7 +15773,7 @@ i.check {
 
 @font-face {
 	font-family: 'Honey';
-	src: url(" /cabinet/constructor/font/Honey.woff") format('woff'), url(" /cabinet/constructor/font/Honey.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Honey.woff") format('woff'), url(" ./cabinet/constructor/font/Honey.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15781,7 +15781,7 @@ i.check {
 
 @font-face {
 	font-family: 'Patriciana';
-	src: url(" /cabinet/constructor/font/Patriciana.woff") format('woff'), url(" /cabinet/constructor/font/Patriciana.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Patriciana.woff") format('woff'), url(" ./cabinet/constructor/font/Patriciana.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15789,7 +15789,7 @@ i.check {
 
 @font-face {
 	font-family: 'SaintAmour';
-	src: url(" /cabinet/constructor/font/SaintAmoure.woff") format('woff'), url(" /cabinet/constructor/font/SaintAmoure.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/SaintAmoure.woff") format('woff'), url(" ./cabinet/constructor/font/SaintAmoure.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15797,7 +15797,7 @@ i.check {
 
 @font-face {
 	font-family: 'LeJardin';
-	src: url(" /cabinet/constructor/font/LeJardine.woff") format('woff'), url(" /cabinet/constructor/font/LeJardine.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/LeJardine.woff") format('woff'), url(" ./cabinet/constructor/font/LeJardine.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15805,7 +15805,7 @@ i.check {
 
 @font-face {
 	font-family: 'Sahar';
-	src: url(" /cabinet/constructor/font/Sahar-Thine.woff") format('woff'), url(" /cabinet/constructor/font/Sahar-Thine.woff") format('truetype');
+	src: url(" ./cabinet/constructor/font/Sahar-Thine.woff") format('woff'), url(" ./cabinet/constructor/font/Sahar-Thine.woff") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15813,7 +15813,7 @@ i.check {
 
 @font-face {
 	font-family: 'Sahar Italice';
-	src: url(" /cabinet/constructor/font/Sahar-Thin-Italice.woff") format('woff'), url(" /cabinet/constructor/font/Sahar-Thin-Italice.woff") format('truetype');
+	src: url(" ./cabinet/constructor/font/Sahar-Thin-Italice.woff") format('woff'), url(" ./cabinet/constructor/font/Sahar-Thin-Italice.woff") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15821,7 +15821,7 @@ i.check {
 
 @font-face {
 	font-family: 'WonderGardene';
-	src: url(" /cabinet/constructor/font/WonderGardene.woff") format('woff'), url(" /cabinet/constructor/font/WonderGardene.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/WonderGardene.woff") format('woff'), url(" ./cabinet/constructor/font/WonderGardene.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15829,7 +15829,7 @@ i.check {
 
 @font-face {
 	font-family: 'WonderSanse';
-	src: url(" /cabinet/constructor/font/WonderGardenSanse.woff") format('woff'), url(" /cabinet/constructor/font/WonderGardenSanse.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/WonderGardenSanse.woff") format('woff'), url(" ./cabinet/constructor/font/WonderGardenSanse.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15837,7 +15837,7 @@ i.check {
 
 @font-face {
 	font-family: 'Florale_EN';
-	src: url(" /cabinet/constructor/font/Florale.woff") format('woff'), url(" /cabinet/constructor/font/Florale.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Florale.woff") format('woff'), url(" ./cabinet/constructor/font/Florale.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15845,7 +15845,7 @@ i.check {
 
 @font-face {
 	font-family: 'AndantinoScript';
-	src: url(" /cabinet/constructor/font/andantino-script.woff") format('woff'), url(" /cabinet/constructor/font/andantino-script.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/andantino-script.woff") format('woff'), url(" ./cabinet/constructor/font/andantino-script.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15853,7 +15853,7 @@ i.check {
 
 @font-face {
 	font-family: 'BickhamScript3';
-	src: url(" /cabinet/constructor/font/bickham-script-three.woff") format('woff'), url(" /cabinet/constructor/font/bickham-script-three.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/bickham-script-three.woff") format('woff'), url(" ./cabinet/constructor/font/bickham-script-three.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15861,7 +15861,7 @@ i.check {
 
 @font-face {
 	font-family: 'BickhamScript2';
-	src: url(" /cabinet/constructor/font/bickham-script-two.woff") format('woff'), url(" /cabinet/constructor/font/bickham-script-two.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/bickham-script-two.woff") format('woff'), url(" ./cabinet/constructor/font/bickham-script-two.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15869,7 +15869,7 @@ i.check {
 
 @font-face {
 	font-family: 'Carolina';
-	src: url(" /cabinet/constructor/font/carolina.woff") format('woff'), url(" /cabinet/constructor/font/carolina.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/carolina.woff") format('woff'), url(" ./cabinet/constructor/font/carolina.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15877,7 +15877,7 @@ i.check {
 
 @font-face {
 	font-family: 'Debby';
-	src: url(" /cabinet/constructor/font/Debby.woff") format('woff'), url(" /cabinet/constructor/font/Debby.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Debby.woff") format('woff'), url(" ./cabinet/constructor/font/Debby.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15885,7 +15885,7 @@ i.check {
 
 @font-face {
 	font-family: 'DsArabic';
-	src: url(" /cabinet/constructor/font/ds-arabic.woff") format('woff'), url(" /cabinet/constructor/font/ds-arabic.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/ds-arabic.woff") format('woff'), url(" ./cabinet/constructor/font/ds-arabic.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15893,7 +15893,7 @@ i.check {
 
 @font-face {
 	font-family: 'LemonTuesday';
-	src: url(" /cabinet/constructor/font/LemonTuesday.woff") format('woff'), url(" /cabinet/constructor/font/LemonTuesday.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/LemonTuesday.woff") format('woff'), url(" ./cabinet/constructor/font/LemonTuesday.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15901,7 +15901,7 @@ i.check {
 
 @font-face {
 	font-family: 'LifehackBasic';
-	src: url(" /cabinet/constructor/font/LifehackBasic.woff") format('woff'), url(" /cabinet/constructor/font/LifehackBasic.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/LifehackBasic.woff") format('woff'), url(" ./cabinet/constructor/font/LifehackBasic.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15909,7 +15909,7 @@ i.check {
 
 @font-face {
 	font-family: 'Marianna';
-	src: url(" /cabinet/constructor/font/marianna.woff") format('woff'), url(" /cabinet/constructor/font/marianna.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/marianna.woff") format('woff'), url(" ./cabinet/constructor/font/marianna.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15917,7 +15917,7 @@ i.check {
 
 @font-face {
 	font-family: 'MountainsofChristmas';
-	src: url(" /cabinet/constructor/font/MountainsofChristmas.woff") format('woff'), url(" /cabinet/constructor/font/MountainsofChristmas.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/MountainsofChristmas.woff") format('woff'), url(" ./cabinet/constructor/font/MountainsofChristmas.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15925,7 +15925,7 @@ i.check {
 
 @font-face {
 	font-family: 'MovusBrushPen';
-	src: url(" /cabinet/constructor/font/Movus_BrushPen.woff") format('woff'), url(" /cabinet/constructor/font/Movus_BrushPen.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Movus_BrushPen.woff") format('woff'), url(" ./cabinet/constructor/font/Movus_BrushPen.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15933,7 +15933,7 @@ i.check {
 
 @font-face {
 	font-family: 'Ninactt';
-	src: url(" /cabinet/constructor/font/ninactt.woff") format('woff'), url(" /cabinet/constructor/font/ninactt.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/ninactt.woff") format('woff'), url(" ./cabinet/constructor/font/ninactt.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15941,7 +15941,7 @@ i.check {
 
 @font-face {
 	font-family: 'PeaceSans';
-	src: url(" /cabinet/constructor/font/PeaceSans.woff") format('woff'), url(" /cabinet/constructor/font/PeaceSans.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/PeaceSans.woff") format('woff'), url(" ./cabinet/constructor/font/PeaceSans.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15949,7 +15949,7 @@ i.check {
 
 @font-face {
 	font-family: 'Pecita';
-	src: url(" /cabinet/constructor/font/Pecita.woff") format('woff'), url(" /cabinet/constructor/font/Pecita.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Pecita.woff") format('woff'), url(" ./cabinet/constructor/font/Pecita.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15957,7 +15957,7 @@ i.check {
 
 @font-face {
 	font-family: 'VenskiSad';
-	src: url(" /cabinet/constructor/font/venski-sad-two-medium.woff") format('woff'), url(" /cabinet/constructor/font/venski-sad-two-medium.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/venski-sad-two-medium.woff") format('woff'), url(" ./cabinet/constructor/font/venski-sad-two-medium.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15965,7 +15965,7 @@ i.check {
 
 @font-face {
 	font-family: 'CorridaCTT';
-	src: url(" /cabinet/constructor/font/CorridaCTT.woff") format('woff'), url(" /cabinet/constructor/font/CorridaCTT.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/CorridaCTT.woff") format('woff'), url(" ./cabinet/constructor/font/CorridaCTT.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15973,7 +15973,7 @@ i.check {
 
 @font-face {
 	font-family: 'DecorCyrillic';
-	src: url(" /cabinet/constructor/font/DecorCyrillic.woff") format('woff'), url(" /cabinet/constructor/font/DecorCyrillic.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/DecorCyrillic.woff") format('woff'), url(" ./cabinet/constructor/font/DecorCyrillic.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15981,7 +15981,7 @@ i.check {
 
 @font-face {
 	font-family: 'IsadoraCyr';
-	src: url(" /cabinet/constructor/font/IsadoraCyr.woff") format('woff'), url(" /cabinet/constructor/font/IsadoraCyr.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/IsadoraCyr.woff") format('woff'), url(" ./cabinet/constructor/font/IsadoraCyr.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15989,7 +15989,7 @@ i.check {
 
 @font-face {
 	font-family: 'Colus-Regular';
-	src: url(" /cabinet/constructor/font/Colus-Regular.woff") format('woff'), url(" /cabinet/constructor/font/Colus-Regular.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Colus-Regular.woff") format('woff'), url(" ./cabinet/constructor/font/Colus-Regular.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -15997,7 +15997,7 @@ i.check {
 
 @font-face {
 	font-family: 'CormorantInfant-Bold';
-	src: url(" /cabinet/constructor/font/CormorantInfant-Bold.woff") format('woff'), url(" /cabinet/constructor/font/CormorantInfant-Bold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/CormorantInfant-Bold.woff") format('woff'), url(" ./cabinet/constructor/font/CormorantInfant-Bold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16005,7 +16005,7 @@ i.check {
 
 @font-face {
 	font-family: 'CormorantInfant-Light';
-	src: url(" /cabinet/constructor/font/CormorantInfant-Light.woff") format('woff'), url(" /cabinet/constructor/font/CormorantInfant-Light.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/CormorantInfant-Light.woff") format('woff'), url(" ./cabinet/constructor/font/CormorantInfant-Light.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16013,7 +16013,7 @@ i.check {
 
 @font-face {
 	font-family: 'CormorantInfant-Regular';
-	src: url(" /cabinet/constructor/font/CormorantInfant-Regular.woff") format('woff'), url(" /cabinet/constructor/font/CormorantInfant-Regular.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/CormorantInfant-Regular.woff") format('woff'), url(" ./cabinet/constructor/font/CormorantInfant-Regular.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16021,7 +16021,7 @@ i.check {
 
 @font-face {
 	font-family: 'HoneyVineyarde';
-	src: url(" /cabinet/constructor/font/HoneyVineyarde.woff") format('woff'), url(" /cabinet/constructor/font/HoneyVineyarde.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/HoneyVineyarde.woff") format('woff'), url(" ./cabinet/constructor/font/HoneyVineyarde.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16029,7 +16029,7 @@ i.check {
 
 @font-face {
 	font-family: 'iglets';
-	src: url(" /cabinet/constructor/font/iglets.woff") format('woff'), url(" /cabinet/constructor/font/iglets.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/iglets.woff") format('woff'), url(" ./cabinet/constructor/font/iglets.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16037,7 +16037,7 @@ i.check {
 
 @font-face {
 	font-family: 'Patriciana';
-	src: url(" /cabinet/constructor/font/Patriciana.woff") format('woff'), url(" /cabinet/constructor/font/Patriciana.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Patriciana.woff") format('woff'), url(" ./cabinet/constructor/font/Patriciana.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16045,7 +16045,7 @@ i.check {
 
 @font-face {
 	font-family: 'Legende';
-	src: url(" /cabinet/constructor/font/Legende.woff") format('woff'), url(" /cabinet/constructor/font/Legende.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Legende.woff") format('woff'), url(" ./cabinet/constructor/font/Legende.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16053,7 +16053,7 @@ i.check {
 
 @font-face {
 	font-family: 'LinoScript';
-	src: url(" /cabinet/constructor/font/LinoScript.woff") format('woff'), url(" /cabinet/constructor/font/LinoScript.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/LinoScript.woff") format('woff'), url(" ./cabinet/constructor/font/LinoScript.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16061,7 +16061,7 @@ i.check {
 
 @font-face {
 	font-family: 'Pushkin';
-	src: url(" /cabinet/constructor/font/Pushkin.woff") format('woff'), url(" /cabinet/constructor/font/Pushkin.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Pushkin.woff") format('woff'), url(" ./cabinet/constructor/font/Pushkin.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16069,7 +16069,7 @@ i.check {
 
 @font-face {
 	font-family: 'ShellyAllegro';
-	src: url(" /cabinet/constructor/font/ShellyAllegro.woff") format('woff'), url(" /cabinet/constructor/font/ShellyAllegro.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/ShellyAllegro.woff") format('woff'), url(" ./cabinet/constructor/font/ShellyAllegro.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16077,7 +16077,7 @@ i.check {
 
 @font-face {
 	font-family: 'AppetiteNew';
-	src: url(" /cabinet/constructor/font/AppetiteNew.woff") format('woff'), url(" /cabinet/constructor/font/AppetiteNew.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/AppetiteNew.woff") format('woff'), url(" ./cabinet/constructor/font/AppetiteNew.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16085,7 +16085,7 @@ i.check {
 
 @font-face {
 	font-family: 'Barocco_Initial';
-	src: url(" /cabinet/constructor/font/Barocco_Initial.woff") format('woff'), url(" /cabinet/constructor/font/Barocco_Initial.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Barocco_Initial.woff") format('woff'), url(" ./cabinet/constructor/font/Barocco_Initial.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16093,7 +16093,7 @@ i.check {
 
 @font-face {
 	font-family: 'BistroC';
-	src: url(" /cabinet/constructor/font/BistroC.woff") format('woff'), url(" /cabinet/constructor/font/BistroC.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/BistroC.woff") format('woff'), url(" ./cabinet/constructor/font/BistroC.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16101,7 +16101,7 @@ i.check {
 
 @font-face {
 	font-family: 'Cleopatra';
-	src: url(" /cabinet/constructor/font/Cleopatra.woff") format('woff'), url(" /cabinet/constructor/font/Cleopatra.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Cleopatra.woff") format('woff'), url(" ./cabinet/constructor/font/Cleopatra.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16109,7 +16109,7 @@ i.check {
 
 @font-face {
 	font-family: 'Flash';
-	src: url(" /cabinet/constructor/font/Flash.woff") format('woff'), url(" /cabinet/constructor/font/Flash.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Flash.woff") format('woff'), url(" ./cabinet/constructor/font/Flash.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16117,7 +16117,7 @@ i.check {
 
 @font-face {
 	font-family: 'Lzax';
-	src: url(" /cabinet/constructor/font/lzax.woff") format('woff'), url(" /cabinet/constructor/font/lzax.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/lzax.woff") format('woff'), url(" ./cabinet/constructor/font/lzax.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16125,7 +16125,7 @@ i.check {
 
 @font-face {
 	font-family: 'Academiche';
-	src: url(" /cabinet/constructor/font/academiche.woff") format('woff'), url(" /cabinet/constructor/font/academiche.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/academiche.woff") format('woff'), url(" ./cabinet/constructor/font/academiche.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16133,7 +16133,7 @@ i.check {
 
 @font-face {
 	font-family: 'CourierMOT';
-	src: url(" /cabinet/constructor/font/Flash.woff") format('woff'), url(" /cabinet/constructor/font/Flash.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Flash.woff") format('woff'), url(" ./cabinet/constructor/font/Flash.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16141,7 +16141,7 @@ i.check {
 
 @font-face {
 	font-family: 'Hairfont';
-	src: url(" /cabinet/constructor/font/hairfont.woff") format('woff'), url(" /cabinet/constructor/font/hairfont.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/hairfont.woff") format('woff'), url(" ./cabinet/constructor/font/hairfont.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16149,7 +16149,7 @@ i.check {
 
 @font-face {
 	font-family: 'Hombre';
-	src: url(" /cabinet/constructor/font/Hombre.woff") format('woff'), url(" /cabinet/constructor/font/Hombre.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Hombre.woff") format('woff'), url(" ./cabinet/constructor/font/Hombre.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16157,7 +16157,7 @@ i.check {
 
 @font-face {
 	font-family: 'Scandal';
-	src: url(" /cabinet/constructor/font/Scandal.woff") format('woff'), url(" /cabinet/constructor/font/Scandal.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Scandal.woff") format('woff'), url(" ./cabinet/constructor/font/Scandal.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16165,7 +16165,7 @@ i.check {
 
 @font-face {
 	font-family: 'Secession';
-	src: url(" /cabinet/constructor/font/Secession.woff") format('woff'), url(" /cabinet/constructor/font/Secession.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Secession.woff") format('woff'), url(" ./cabinet/constructor/font/Secession.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16173,7 +16173,7 @@ i.check {
 
 @font-face {
 	font-family: 'Gecko';
-	src: url(" /cabinet/constructor/font/Gecko.woff") format('woff'), url(" /cabinet/constructor/font/Gecko.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Gecko.woff") format('woff'), url(" ./cabinet/constructor/font/Gecko.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16181,7 +16181,7 @@ i.check {
 
 @font-face {
 	font-family: 'Malahit';
-	src: url(" /cabinet/constructor/font/Malahit.woff") format('woff'), url(" /cabinet/constructor/font/Malahit.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Malahit.woff") format('woff'), url(" ./cabinet/constructor/font/Malahit.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16189,7 +16189,7 @@ i.check {
 
 @font-face {
 	font-family: 'Akrobat-Bold';
-	src: url(" /cabinet/constructor/font/Akrobat-Bold.woff") format('woff'), url(" /cabinet/constructor/font/Akrobat-Bold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Akrobat-Bold.woff") format('woff'), url(" ./cabinet/constructor/font/Akrobat-Bold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16197,7 +16197,7 @@ i.check {
 
 @font-face {
 	font-family: 'Akrobat-ExtraLight';
-	src: url(" /cabinet/constructor/font/Akrobat-ExtraLight.woff") format('woff'), url(" /cabinet/constructor/font/Akrobat-ExtraLight.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Akrobat-ExtraLight.woff") format('woff'), url(" ./cabinet/constructor/font/Akrobat-ExtraLight.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16205,7 +16205,7 @@ i.check {
 
 @font-face {
 	font-family: 'Akrobat-Regular';
-	src: url(" /cabinet/constructor/font/Akrobat-Regular.woff") format('woff'), url(" /cabinet/constructor/font/Akrobat-Regular.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Akrobat-Regular.woff") format('woff'), url(" ./cabinet/constructor/font/Akrobat-Regular.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16213,7 +16213,7 @@ i.check {
 
 @font-face {
 	font-family: 'Bemount';
-	src: url(" /cabinet/constructor/font/Bemount.woff") format('woff'), url(" /cabinet/constructor/font/Bemount.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Bemount.woff") format('woff'), url(" ./cabinet/constructor/font/Bemount.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16221,7 +16221,7 @@ i.check {
 
 @font-face {
 	font-family: 'Dobrozrachniy';
-	src: url(" /cabinet/constructor/font/Dobrozrachniy.woff") format('woff'), url(" /cabinet/constructor/font/Dobrozrachniy.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Dobrozrachniy.woff") format('woff'), url(" ./cabinet/constructor/font/Dobrozrachniy.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16229,7 +16229,7 @@ i.check {
 
 @font-face {
 	font-family: 'Mixa';
-	src: url(" /cabinet/constructor/font/Mixa.woff") format('woff'), url(" /cabinet/constructor/font/Mixa.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Mixa.woff") format('woff'), url(" ./cabinet/constructor/font/Mixa.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16237,7 +16237,7 @@ i.check {
 
 @font-face {
 	font-family: 'Gora';
-	src: url(" /cabinet/constructor/font/Gora.woff") format('woff'), url(" /cabinet/constructor/font/Gora.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Gora.woff") format('woff'), url(" ./cabinet/constructor/font/Gora.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16245,7 +16245,7 @@ i.check {
 
 @font-face {
 	font-family: 'GUERRILLA';
-	src: url(" /cabinet/constructor/font/GUERRILLA.woff") format('woff'), url(" /cabinet/constructor/font/GUERRILLA.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/GUERRILLA.woff") format('woff'), url(" ./cabinet/constructor/font/GUERRILLA.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16253,7 +16253,7 @@ i.check {
 
 @font-face {
 	font-family: 'IkraSlab';
-	src: url(" /cabinet/constructor/font/IkraSlab.woff") format('woff'), url(" /cabinet/constructor/font/IkraSlab.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/IkraSlab.woff") format('woff'), url(" ./cabinet/constructor/font/IkraSlab.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16261,7 +16261,7 @@ i.check {
 
 @font-face {
 	font-family: 'HeadR';
-	src: url(" /cabinet/constructor/font/HeadR.woff") format('woff'), url(" /cabinet/constructor/font/HeadR.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/HeadR.woff") format('woff'), url(" ./cabinet/constructor/font/HeadR.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16269,7 +16269,7 @@ i.check {
 
 @font-face {
 	font-family: 'RustG';
-	src: url(" /cabinet/constructor/font/RustG.woff") format('woff'), url(" /cabinet/constructor/font/RustG.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/RustG.woff") format('woff'), url(" ./cabinet/constructor/font/RustG.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16277,7 +16277,7 @@ i.check {
 
 @font-face {
 	font-family: 'ScriptR';
-	src: url(" /cabinet/constructor/font/ScriptR.woff") format('woff'), url(" /cabinet/constructor/font/ScriptR.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/ScriptR.woff") format('woff'), url(" ./cabinet/constructor/font/ScriptR.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16285,7 +16285,7 @@ i.check {
 
 @font-face {
 	font-family: 'Katona';
-	src: url(" /cabinet/constructor/font/Katona.woff") format('woff'), url(" /cabinet/constructor/font/Katona.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Katona.woff") format('woff'), url(" ./cabinet/constructor/font/Katona.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16293,7 +16293,7 @@ i.check {
 
 @font-face {
 	font-family: 'Magnolia';
-	src: url(" /cabinet/constructor/font/Magnolia.woff") format('woff'), url(" /cabinet/constructor/font/Magnolia.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Magnolia.woff") format('woff'), url(" ./cabinet/constructor/font/Magnolia.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16301,7 +16301,7 @@ i.check {
 
 @font-face {
 	font-family: 'Oks';
-	src: url(" /cabinet/constructor/font/Oks.woff") format('woff'), url(" /cabinet/constructor/font/Oks.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Oks.woff") format('woff'), url(" ./cabinet/constructor/font/Oks.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16309,7 +16309,7 @@ i.check {
 
 @font-face {
 	font-family: 'Krabuler';
-	src: url(" /cabinet/constructor/font/Krabuler.woff") format('woff'), url(" /cabinet/constructor/font/Krabuler.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Krabuler.woff") format('woff'), url(" ./cabinet/constructor/font/Krabuler.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16317,7 +16317,7 @@ i.check {
 
 @font-face {
 	font-family: 'Permian';
-	src: url(" /cabinet/constructor/font/permian.woff") format('woff'), url(" /cabinet/constructor/font/permian.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/permian.woff") format('woff'), url(" ./cabinet/constructor/font/permian.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16325,7 +16325,7 @@ i.check {
 
 @font-face {
 	font-family: 'Avantetitul';
-	src: url(" /cabinet/constructor/font/avantetitulinline.woff") format('woff'), url(" /cabinet/constructor/font/avantetitulinline.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/avantetitulinline.woff") format('woff'), url(" ./cabinet/constructor/font/avantetitulinline.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16333,7 +16333,7 @@ i.check {
 
 @font-face {
 	font-family: 'Acquest';
-	src: url(" /cabinet/constructor/font/acquest.woff") format('woff'), url(" /cabinet/constructor/font/acquest.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/acquest.woff") format('woff'), url(" ./cabinet/constructor/font/acquest.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16341,7 +16341,7 @@ i.check {
 
 @font-face {
 	font-family: 'Adine';
-	src: url(" /cabinet/constructor/font/adine.woff") format('woff'), url(" /cabinet/constructor/font/adine.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/adine.woff") format('woff'), url(" ./cabinet/constructor/font/adine.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16349,7 +16349,7 @@ i.check {
 
 @font-face {
 	font-family: 'American-retro';
-	src: url(" /cabinet/constructor/font/american-retro.woff") format('woff'), url(" /cabinet/constructor/font/american-retro.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/american-retro.woff") format('woff'), url(" ./cabinet/constructor/font/american-retro.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16357,7 +16357,7 @@ i.check {
 
 @font-face {
 	font-family: 'Anastasia';
-	src: url(" /cabinet/constructor/font/anastasia.woff") format('woff'), url(" /cabinet/constructor/font/anastasia.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/anastasia.woff") format('woff'), url(" ./cabinet/constructor/font/anastasia.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16365,7 +16365,7 @@ i.check {
 
 @font-face {
 	font-family: 'Anfisa-grotesk';
-	src: url(" /cabinet/constructor/font/anfisa-grotesk.woff") format('woff'), url(" /cabinet/constructor/font/anfisa-grotesk.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/anfisa-grotesk.woff") format('woff'), url(" ./cabinet/constructor/font/anfisa-grotesk.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16373,7 +16373,7 @@ i.check {
 
 @font-face {
 	font-family: 'Aquarelle';
-	src: url(" /cabinet/constructor/font/aquarelle.woff") format('woff'), url(" /cabinet/constructor/font/aquarelle.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/aquarelle.woff") format('woff'), url(" ./cabinet/constructor/font/aquarelle.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16381,7 +16381,7 @@ i.check {
 
 @font-face {
 	font-family: 'Arbat';
-	src: url(" /cabinet/constructor/font/arbat.woff") format('woff'), url(" /cabinet/constructor/font/arbat.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/arbat.woff") format('woff'), url(" ./cabinet/constructor/font/arbat.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16389,7 +16389,7 @@ i.check {
 
 @font-face {
 	font-family: 'Arctika';
-	src: url(" /cabinet/constructor/font/arctika.woff") format('woff'), url(" /cabinet/constructor/font/arctika.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/arctika.woff") format('woff'), url(" ./cabinet/constructor/font/arctika.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16397,7 +16397,7 @@ i.check {
 
 @font-face {
 	font-family: 'Ariston';
-	src: url(" /cabinet/constructor/font/ariston.woff") format('woff'), url(" /cabinet/constructor/font/ariston.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/ariston.woff") format('woff'), url(" ./cabinet/constructor/font/ariston.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16405,7 +16405,7 @@ i.check {
 
 @font-face {
 	font-family: 'Artscript';
-	src: url(" /cabinet/constructor/font/artscript.woff") format('woff'), url(" /cabinet/constructor/font/artscript.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/artscript.woff") format('woff'), url(" ./cabinet/constructor/font/artscript.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16413,7 +16413,7 @@ i.check {
 
 @font-face {
 	font-family: 'Aurora';
-	src: url(" /cabinet/constructor/font/aurora.woff") format('woff'), url(" /cabinet/constructor/font/aurora.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/aurora.woff") format('woff'), url(" ./cabinet/constructor/font/aurora.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16421,7 +16421,7 @@ i.check {
 
 @font-face {
 	font-family: 'Avalon-medium';
-	src: url(" /cabinet/constructor/font/avalon-medium.woff") format('woff'), url(" /cabinet/constructor/font/avalon-medium.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/avalon-medium.woff") format('woff'), url(" ./cabinet/constructor/font/avalon-medium.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16429,7 +16429,7 @@ i.check {
 
 @font-face {
 	font-family: 'Bip';
-	src: url(" /cabinet/constructor/font/bip.woff") format('woff'), url(" /cabinet/constructor/font/bip.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/bip.woff") format('woff'), url(" ./cabinet/constructor/font/bip.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16437,7 +16437,7 @@ i.check {
 
 @font-face {
 	font-family: 'Bolero';
-	src: url(" /cabinet/constructor/font/bolero.woff") format('woff'), url(" /cabinet/constructor/font/bolero.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/bolero.woff") format('woff'), url(" ./cabinet/constructor/font/bolero.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16445,7 +16445,7 @@ i.check {
 
 @font-face {
 	font-family: 'Boyarsky';
-	src: url(" /cabinet/constructor/font/boyarsky.woff") format('woff'), url(" /cabinet/constructor/font/boyarsky.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/boyarsky.woff") format('woff'), url(" ./cabinet/constructor/font/boyarsky.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16453,7 +16453,7 @@ i.check {
 
 @font-face {
 	font-family: 'Breeze';
-	src: url(" /cabinet/constructor/font/breeze.woff") format('woff'), url(" /cabinet/constructor/font/breeze.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/breeze.woff") format('woff'), url(" ./cabinet/constructor/font/breeze.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16461,7 +16461,7 @@ i.check {
 
 @font-face {
 	font-family: 'Brushtype';
-	src: url(" /cabinet/constructor/font/brushtype.woff") format('woff'), url(" /cabinet/constructor/font/brushtype.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/brushtype.woff") format('woff'), url(" ./cabinet/constructor/font/brushtype.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16469,7 +16469,7 @@ i.check {
 
 @font-face {
 	font-family: 'Brushtype-bold';
-	src: url(" /cabinet/constructor/font/brushtype-bold.woff") format('woff'), url(" /cabinet/constructor/font/brushtype-bold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/brushtype-bold.woff") format('woff'), url(" ./cabinet/constructor/font/brushtype-bold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16477,7 +16477,7 @@ i.check {
 
 @font-face {
 	font-family: 'Calligraph';
-	src: url(" /cabinet/constructor/font/calligraph.woff") format('woff'), url(" /cabinet/constructor/font/calligraph.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/calligraph.woff") format('woff'), url(" ./cabinet/constructor/font/calligraph.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16485,7 +16485,7 @@ i.check {
 
 @font-face {
 	font-family: 'Cassandra';
-	src: url(" /cabinet/constructor/font/cassandra.woff") format('woff'), url(" /cabinet/constructor/font/cassandra.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/cassandra.woff") format('woff'), url(" ./cabinet/constructor/font/cassandra.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16493,7 +16493,7 @@ i.check {
 
 @font-face {
 	font-family: 'Corinthia';
-	src: url(" /cabinet/constructor/font/corinthia.woff") format('woff'), url(" /cabinet/constructor/font/corinthia.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/corinthia.woff") format('woff'), url(" ./cabinet/constructor/font/corinthia.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16501,7 +16501,7 @@ i.check {
 
 @font-face {
 	font-family: 'Ekaterina';
-	src: url(" /cabinet/constructor/font/ekaterina.woff") format('woff'), url(" /cabinet/constructor/font/ekaterina.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/ekaterina.woff") format('woff'), url(" ./cabinet/constructor/font/ekaterina.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16509,7 +16509,7 @@ i.check {
 
 @font-face {
 	font-family: 'esenin';
-	src: url(" /cabinet/constructor/font/esenin.woff") format('woff'), url(" /cabinet/constructor/font/esenin.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/esenin.woff") format('woff'), url(" ./cabinet/constructor/font/esenin.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16517,7 +16517,7 @@ i.check {
 
 @font-face {
 	font-family: 'Flamme';
-	src: url(" /cabinet/constructor/font/flamme.woff") format('woff'), url(" /cabinet/constructor/font/flamme.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/flamme.woff") format('woff'), url(" ./cabinet/constructor/font/flamme.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16525,7 +16525,7 @@ i.check {
 
 @font-face {
 	font-family: 'Heinrichscript';
-	src: url(" /cabinet/constructor/font/heinrichscript.woff") format('woff'), url(" /cabinet/constructor/font/heinrichscript.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/heinrichscript.woff") format('woff'), url(" ./cabinet/constructor/font/heinrichscript.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16533,7 +16533,7 @@ i.check {
 
 @font-face {
 	font-family: 'Junegull';
-	src: url(" /cabinet/constructor/font/junegull.woff") format('woff'), url(" /cabinet/constructor/font/junegull.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/junegull.woff") format('woff'), url(" ./cabinet/constructor/font/junegull.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16541,7 +16541,7 @@ i.check {
 
 @font-face {
 	font-family: 'Mon-amour';
-	src: url(" /cabinet/constructor/font/mon-amour.woff") format('woff'), url(" /cabinet/constructor/font/mon-amour.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/mon-amour.woff") format('woff'), url(" ./cabinet/constructor/font/mon-amour.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16549,7 +16549,7 @@ i.check {
 
 @font-face {
 	font-family: 'Mon-amour-two';
-	src: url(" /cabinet/constructor/font/mon-amour-two.woff") format('woff'), url(" /cabinet/constructor/font/mon-amour-two.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/mon-amour-two.woff") format('woff'), url(" ./cabinet/constructor/font/mon-amour-two.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16557,7 +16557,7 @@ i.check {
 
 @font-face {
 	font-family: 'Olgactt';
-	src: url(" /cabinet/constructor/font/olgactt.woff") format('woff'), url(" /cabinet/constructor/font/olgactt.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/olgactt.woff") format('woff'), url(" ./cabinet/constructor/font/olgactt.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16565,7 +16565,7 @@ i.check {
 
 @font-face {
 	font-family: 'Olietta';
-	src: url(" /cabinet/constructor/font/olietta.woff") format('woff'), url(" /cabinet/constructor/font/olietta.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/olietta.woff") format('woff'), url(" ./cabinet/constructor/font/olietta.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal;
 	font-display: auto
@@ -16573,441 +16573,441 @@ i.check {
 
 @font-face {
 	font-family: 'Parsek';
-	src: url(" /cabinet/constructor/font/parsek.woff") format('woff'), url(" /cabinet/constructor/font/parsek.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/parsek.woff") format('woff'), url(" ./cabinet/constructor/font/parsek.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Parsek';
-	src: url(" /cabinet/constructor/font/parsek.woff") format('woff'), url(" /cabinet/constructor/font/parsek.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/parsek.woff") format('woff'), url(" ./cabinet/constructor/font/parsek.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Rotonda';
-	src: url(" /cabinet/constructor/font/RotondaC.woff") format('woff'), url(" /cabinet/constructor/font/RotondaC.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/RotondaC.woff") format('woff'), url(" ./cabinet/constructor/font/RotondaC.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Rotonda Bold';
-	src: url(" /cabinet/constructor/font/Rotonda.woff") format('woff'), url(" /cabinet/constructor/font/Rotonda.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Rotonda.woff") format('woff'), url(" ./cabinet/constructor/font/Rotonda.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Popular';
-	src: url(" /cabinet/constructor/font/popular.woff") format('woff'), url(" /cabinet/constructor/font/popular.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/popular.woff") format('woff'), url(" ./cabinet/constructor/font/popular.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'President';
-	src: url(" /cabinet/constructor/font/president.woff") format('woff'), url(" /cabinet/constructor/font/president.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/president.woff") format('woff'), url(" ./cabinet/constructor/font/president.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Rosamunda';
-	src: url(" /cabinet/constructor/font/rosamunda.woff") format('woff'), url(" /cabinet/constructor/font/rosamunda.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/rosamunda.woff") format('woff'), url(" ./cabinet/constructor/font/rosamunda.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Scriptorama';
-	src: url(" /cabinet/constructor/font/scriptorama.woff") format('woff'), url(" /cabinet/constructor/font/scriptorama.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/scriptorama.woff") format('woff'), url(" ./cabinet/constructor/font/scriptorama.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Tagirctt';
-	src: url(" /cabinet/constructor/font/tagirctt.woff") format('woff'), url(" /cabinet/constructor/font/tagirctt.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/tagirctt.woff") format('woff'), url(" ./cabinet/constructor/font/tagirctt.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Teslics';
-	src: url(" /cabinet/constructor/font/teslics.woff") format('woff'), url(" /cabinet/constructor/font/teslics.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/teslics.woff") format('woff'), url(" ./cabinet/constructor/font/teslics.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'KZ_Nautilus';
-	src: url(" /cabinet/constructor/font/KZ_Nautilus.woff") format('woff'), url(" /cabinet/constructor/font/KZ_Nautilus.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/KZ_Nautilus.woff") format('woff'), url(" ./cabinet/constructor/font/KZ_Nautilus.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Madelyn';
-	src: url(" /cabinet/constructor/font/madelyn.woff") format('woff'), url(" /cabinet/constructor/font/madelyn.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/madelyn.woff") format('woff'), url(" ./cabinet/constructor/font/madelyn.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Doodles';
-	src: url(" /cabinet/constructor/font/doodles.woff") format('woff'), url(" /cabinet/constructor/font/doodles.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/doodles.woff") format('woff'), url(" ./cabinet/constructor/font/doodles.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Alphabet';
-	src: url(" /cabinet/constructor/font/Alphabet.woff") format('woff'), url(" /cabinet/constructor/font/Alphabet.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Alphabet.woff") format('woff'), url(" ./cabinet/constructor/font/Alphabet.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Skripka';
-	src: url(" /cabinet/constructor/font/Skripka.woff") format('woff'), url(" /cabinet/constructor/font/Skripka.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Skripka.woff") format('woff'), url(" ./cabinet/constructor/font/Skripka.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Handler';
-	src: url(" /cabinet/constructor/font/Handler.woff") format('woff'), url(" /cabinet/constructor/font/Handler.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Handler.woff") format('woff'), url(" ./cabinet/constructor/font/Handler.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Bondy';
-	src: url(" /cabinet/constructor/font/Bondy.woff") format('woff'), url(" /cabinet/constructor/font/Bondy.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Bondy.woff") format('woff'), url(" ./cabinet/constructor/font/Bondy.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Marker';
-	src: url(" /cabinet/constructor/font/Marker.woff") format('woff'), url(" /cabinet/constructor/font/Marker.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Marker.woff") format('woff'), url(" ./cabinet/constructor/font/Marker.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Swing';
-	src: url(" /cabinet/constructor/font/Swing.woff") format('woff'), url(" /cabinet/constructor/font/Swing.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Swing.woff") format('woff'), url(" ./cabinet/constructor/font/Swing.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Fastmarker';
-	src: url(" /cabinet/constructor/font/Fastmarker.woff") format('woff'), url(" /cabinet/constructor/font/Fastmarker.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Fastmarker.woff") format('woff'), url(" ./cabinet/constructor/font/Fastmarker.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Julia';
-	src: url(" /cabinet/constructor/font/Julia.woff") format('woff'), url(" /cabinet/constructor/font/Julia.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Julia.woff") format('woff'), url(" ./cabinet/constructor/font/Julia.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Fatpencil';
-	src: url(" /cabinet/constructor/font/Fatpencil.woff") format('woff'), url(" /cabinet/constructor/font/Fatpencil.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Fatpencil.woff") format('woff'), url(" ./cabinet/constructor/font/Fatpencil.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Antua';
-	src: url(" /cabinet/constructor/font/Antua.woff") format('woff'), url(" /cabinet/constructor/font/Antua.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Antua.woff") format('woff'), url(" ./cabinet/constructor/font/Antua.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Lordica';
-	src: url(" /cabinet/constructor/font/Lordica.woff") format('woff'), url(" /cabinet/constructor/font/Lordica.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Lordica.woff") format('woff'), url(" ./cabinet/constructor/font/Lordica.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Vena';
-	src: url(" /cabinet/constructor/font/Vena.woff") format('woff'), url(" /cabinet/constructor/font/Vena.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Vena.woff") format('woff'), url(" ./cabinet/constructor/font/Vena.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Truehand';
-	src: url(" /cabinet/constructor/font/Truehand.woff") format('woff'), url(" /cabinet/constructor/font/Truehand.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Truehand.woff") format('woff'), url(" ./cabinet/constructor/font/Truehand.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Slowpen';
-	src: url(" /cabinet/constructor/font/Slowpen.woff") format('woff'), url(" /cabinet/constructor/font/Slowpen.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Slowpen.woff") format('woff'), url(" ./cabinet/constructor/font/Slowpen.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Callilia';
-	src: url(" /cabinet/constructor/font/Callilia.woff") format('woff'), url(" /cabinet/constructor/font/Callilia.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Callilia.woff") format('woff'), url(" ./cabinet/constructor/font/Callilia.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'BuxtonSketch';
-	src: url(" /cabinet/constructor/font/BuxtonSketch.woff") format('woff'), url(" /cabinet/constructor/font/BuxtonSketch.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/BuxtonSketch.woff") format('woff'), url(" ./cabinet/constructor/font/BuxtonSketch.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Tetcher';
-	src: url(" /cabinet/constructor/font/Tetcher.woff") format('woff'), url(" /cabinet/constructor/font/Tetcher.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Tetcher.woff") format('woff'), url(" ./cabinet/constructor/font/Tetcher.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'AcquestScript';
-	src: url(" /cabinet/constructor/font/acquest-script.woff") format('woff'), url(" /cabinet/constructor/font/acquest-script.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/acquest-script.woff") format('woff'), url(" ./cabinet/constructor/font/acquest-script.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Adlery';
-	src: url(" /cabinet/constructor/font/Adlery.woff") format('woff'), url(" /cabinet/constructor/font/Adlery.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Adlery.woff") format('woff'), url(" ./cabinet/constructor/font/Adlery.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'CaveatBold';
-	src: url(" /cabinet/constructor/font/CaveatBold.woff") format('woff'), url(" /cabinet/constructor/font/CaveatBold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/CaveatBold.woff") format('woff'), url(" ./cabinet/constructor/font/CaveatBold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Athenic';
-	src: url(" /cabinet/constructor/font/Athenic.woff") format('woff'), url(" /cabinet/constructor/font/Athenic.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Athenic.woff") format('woff'), url(" ./cabinet/constructor/font/Athenic.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'CaveatRegular';
-	src: url(" /cabinet/constructor/font/CaveatRegular.woff") format('woff'), url(" /cabinet/constructor/font/CaveatRegular.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/CaveatRegular.woff") format('woff'), url(" ./cabinet/constructor/font/CaveatRegular.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'CirceBold';
-	src: url(" /cabinet/constructor/font/CirceBold.woff") format('woff'), url(" /cabinet/constructor/font/CirceBold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/CirceBold.woff") format('woff'), url(" ./cabinet/constructor/font/CirceBold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'CirceExtraBold';
-	src: url(" /cabinet/constructor/font/CirceExtraBold.woff") format('woff'), url(" /cabinet/constructor/font/CirceExtraBold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/CirceExtraBold.woff") format('woff'), url(" ./cabinet/constructor/font/CirceExtraBold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Cour';
-	src: url(" /cabinet/constructor/font/Cour.woff") format('woff'), url(" /cabinet/constructor/font/Cour.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Cour.woff") format('woff'), url(" ./cabinet/constructor/font/Cour.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Courbd';
-	src: url(" /cabinet/constructor/font/Courbd.woff") format('woff'), url(" /cabinet/constructor/font/Courbd.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Courbd.woff") format('woff'), url(" ./cabinet/constructor/font/Courbd.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Courbi';
-	src: url(" /cabinet/constructor/font/Courbi.woff") format('woff'), url(" /cabinet/constructor/font/Courbi.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Courbi.woff") format('woff'), url(" ./cabinet/constructor/font/Courbi.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Couri';
-	src: url(" /cabinet/constructor/font/Couri.woff") format('woff'), url(" /cabinet/constructor/font/Couri.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Couri.woff") format('woff'), url(" ./cabinet/constructor/font/Couri.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'NeueBold';
-	src: url(" /cabinet/constructor/font/NeueBold.woff") format('woff'), url(" /cabinet/constructor/font/NeueBold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/NeueBold.woff") format('woff'), url(" ./cabinet/constructor/font/NeueBold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'NeueLight';
-	src: url(" /cabinet/constructor/font/NeueLight.woff") format('woff'), url(" /cabinet/constructor/font/NeueLight.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/NeueLight.woff") format('woff'), url(" ./cabinet/constructor/font/NeueLight.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'NeueRoman';
-	src: url(" /cabinet/constructor/font/NeueRoman.woff") format('woff'), url(" /cabinet/constructor/font/NeueRoman.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/NeueRoman.woff") format('woff'), url(" ./cabinet/constructor/font/NeueRoman.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'ElowenCaps';
-	src: url(" /cabinet/constructor/font/ElowenCaps.woff") format('woff'), url(" /cabinet/constructor/font/ElowenCaps.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/ElowenCaps.woff") format('woff'), url(" ./cabinet/constructor/font/ElowenCaps.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'LeoHand';
-	src: url(" /cabinet/constructor/font/LeoHand.woff") format('woff'), url(" /cabinet/constructor/font/LeoHand.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/LeoHand.woff") format('woff'), url(" ./cabinet/constructor/font/LeoHand.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'LeoHandLight';
-	src: url(" /cabinet/constructor/font/LeoHandLight.woff") format('woff'), url(" /cabinet/constructor/font/LeoHandLight.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/LeoHandLight.woff") format('woff'), url(" ./cabinet/constructor/font/LeoHandLight.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'LoreleiPrint';
-	src: url(" /cabinet/constructor/font/LoreleiPrint.woff") format('woff'), url(" /cabinet/constructor/font/LoreleiPrint.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/LoreleiPrint.woff") format('woff'), url(" ./cabinet/constructor/font/LoreleiPrint.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Neucha';
-	src: url(" /cabinet/constructor/font/Neucha.woff") format('woff'), url(" /cabinet/constructor/font/Neucha.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Neucha.woff") format('woff'), url(" ./cabinet/constructor/font/Neucha.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'BlancSeingLight';
-	src: url(" /cabinet/constructor/font/BlancSeingLight.woff") format('woff'), url(" /cabinet/constructor/font/BlancSeingLight.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/BlancSeingLight.woff") format('woff'), url(" ./cabinet/constructor/font/BlancSeingLight.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'BlancSeingBold';
-	src: url(" /cabinet/constructor/font/BlancSeingBold.woff") format('woff'), url(" /cabinet/constructor/font/BlancSeingBold.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/BlancSeingBold.woff") format('woff'), url(" ./cabinet/constructor/font/BlancSeingBold.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'A_Empirial';
-	src: url(" /cabinet/constructor/font/A_Empirial.woff") format('woff'), url(" /cabinet/constructor/font/A_Empirial.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/A_Empirial.woff") format('woff'), url(" ./cabinet/constructor/font/A_Empirial.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Brusher';
-	src: url(" /cabinet/constructor/font/Brusher.woff") format('woff'), url(" /cabinet/constructor/font/Brusher.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Brusher.woff") format('woff'), url(" ./cabinet/constructor/font/Brusher.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Ribbon';
-	src: url(" /cabinet/constructor/font/Ribbon.woff") format('woff'), url(" /cabinet/constructor/font/Ribbon.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Ribbon.woff") format('woff'), url(" ./cabinet/constructor/font/Ribbon.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Gogol';
-	src: url(" /cabinet/constructor/font/Gogol.woff") format('woff'), url(" /cabinet/constructor/font/Gogol.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Gogol.woff") format('woff'), url(" ./cabinet/constructor/font/Gogol.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Koala';
-	src: url(" /cabinet/constructor/font/Koala.woff") format('woff'), url(" /cabinet/constructor/font/Koala.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Koala.woff") format('woff'), url(" ./cabinet/constructor/font/Koala.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Manuscript';
-	src: url(" /cabinet/constructor/font/Manuscript.woff") format('woff'), url(" /cabinet/constructor/font/Manuscript.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Manuscript.woff") format('woff'), url(" ./cabinet/constructor/font/Manuscript.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Nicoletta';
-	src: url(" /cabinet/constructor/font/Nicoletta.woff") format('woff'), url(" /cabinet/constructor/font/Nicoletta.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Nicoletta.woff") format('woff'), url(" ./cabinet/constructor/font/Nicoletta.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Segoesc';
-	src: url(" /cabinet/constructor/font/Segoesc.woff") format('woff'), url(" /cabinet/constructor/font/Segoesc.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Segoesc.woff") format('woff'), url(" ./cabinet/constructor/font/Segoesc.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Segoescb';
-	src: url(" /cabinet/constructor/font/Segoescb.woff") format('woff'), url(" /cabinet/constructor/font/Segoescb.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Segoescb.woff") format('woff'), url(" ./cabinet/constructor/font/Segoescb.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Scripka';
-	src: url(" /cabinet/constructor/font/Scripka.woff") format('woff'), url(" /cabinet/constructor/font/Scripka.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/Scripka.woff") format('woff'), url(" ./cabinet/constructor/font/Scripka.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'TeddyBear';
-	src: url(" /cabinet/constructor/font/TeddyBear.woff") format('woff'), url(" /cabinet/constructor/font/TeddyBear.ttf") format('truetype');
+	src: url(" ./cabinet/constructor/font/TeddyBear.woff") format('woff'), url(" ./cabinet/constructor/font/TeddyBear.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
 
 @font-face {
 	font-family: 'Zing';
-	src: url("/cabinet/constructor/font/Zing.woff") format('woff'), url("/cabinet/constructor/font/Zing.ttf") format('truetype');
+	src: url("./cabinet/constructor/font/Zing.woff") format('woff'), url("./cabinet/constructor/font/Zing.ttf") format('truetype');
 	font-weight: normal;
 	font-style: normal
 }
