@@ -1,4 +1,3 @@
-
 $(document).ready(function () {
     $("#news-slider").owlCarousel({
         items: 3,
@@ -8,6 +7,6 @@ $(document).ready(function () {
         navigation: true,
         navigationText: ["", ""],
         pagination: true,
-        autoPlay: true
+        autoPlay: false,
     });
 });
