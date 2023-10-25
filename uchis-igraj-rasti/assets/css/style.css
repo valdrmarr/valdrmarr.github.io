@@ -1459,7 +1459,7 @@ hr {
 }
 
 .modal__text {
-    text-align: center;
+    text-align: left;
     font-size: 17px;
     font-family: "NotoSans", Arial, sans-serif;
 
