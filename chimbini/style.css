@@ -511,3 +511,10 @@ div#sea {
 		right: 230px;
 	}
 }
+
+
+@media only screen and (max-width: 400px) {
+    div#video {
+    right: 150px;
+   }
+}
