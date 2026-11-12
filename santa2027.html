@@ -1,0 +1,320 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#07151f">
+<title>Тайный Санта 2027</title>
+<style>
+:root{
+  --pine:#07151f; --pine2:#10303a; --cream:#fff4e0; --muted:#b4c3c6;
+  --gold:#f2c14e; --berry:#c8344b; --fire:#ff7a3d; --moss:#2f9e7a;
+  --card:rgba(255,244,224,.07); --line:rgba(242,193,78,.3);
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{
+  min-height:100vh; color:var(--cream);
+  font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  background:radial-gradient(900px 520px at 50% -8%,#1d5560 0,transparent 62%),linear-gradient(180deg,var(--pine),var(--pine2));
+  background-attachment:fixed;
+  padding:0 16px calc(48px + env(safe-area-inset-bottom));
+}
+.snow{position:fixed;inset:0;pointer-events:none;overflow:hidden;z-index:0}
+.flake{position:absolute;top:-12px;border-radius:50%;background:#fff;opacity:.7;animation:fall linear infinite}
+@keyframes fall{to{transform:translate3d(var(--dx,20px),110vh,0)}}
+.lights{height:16px;margin:0 -16px;background:
+  radial-gradient(circle at 10px 8px,var(--berry) 4px,transparent 5px) 0 0/60px 16px,
+  radial-gradient(circle at 30px 8px,var(--gold) 4px,transparent 5px) 0 0/60px 16px,
+  radial-gradient(circle at 50px 8px,var(--moss) 4px,transparent 5px) 0 0/60px 16px}
+main{position:relative;z-index:1;max-width:560px;margin:0 auto}
+header{text-align:center;padding:28px 0 20px}
+h1{font:700 clamp(38px,11vw,54px)/1.05 Georgia,"Times New Roman",serif;letter-spacing:-.01em;margin:0 0 10px}
+.sub{margin:0 auto;max-width:34ch;color:var(--muted)}
+.tabs{display:flex;gap:6px;padding:5px;margin:0 auto 22px;background:rgba(0,0,0,.28);border:1px solid var(--line);border-radius:999px}
+.tab{flex:1;min-height:46px;border:0;border-radius:999px;background:transparent;color:var(--cream);font:600 15px inherit;font-family:inherit;cursor:pointer}
+.tab[aria-selected="true"]{background:var(--gold);color:#241a05}
+button:focus-visible,input:focus-visible,summary:focus-visible{outline:3px solid var(--fire);outline-offset:2px}
+.panel[hidden]{display:none}
+.card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px}
+.card+.card{margin-top:14px}
+h2{font:700 24px/1.2 Georgia,"Times New Roman",serif;margin:0 0 6px}
+p{margin:0 0 12px}
+.muted{color:var(--muted)}
+.hint{font-size:14px;color:var(--muted);margin:14px 0 0}
+form{display:flex;flex-direction:column;gap:12px;margin-top:16px}
+input[type=tel]{width:100%;min-height:60px;border-radius:12px;border:2px solid var(--line);background:rgba(0,0,0,.3);color:var(--cream);font:700 28px Georgia,serif;letter-spacing:.35em;text-align:center;padding:8px 8px 8px calc(8px + .35em)}
+.btn{min-height:52px;border:0;border-radius:12px;padding:0 22px;background:var(--fire);color:#2a0f00;font:700 17px inherit;font-family:inherit;cursor:pointer}
+.btn:disabled{opacity:.55;cursor:default}
+.btn.ghost{background:transparent;color:var(--cream);border:1px solid var(--line);min-height:44px;font-size:15px}
+.err{color:#ff9aa8;min-height:1.4em;margin:0;font-size:15px}
+.wheel-box{position:relative;width:min(88vw,400px);margin:18px auto 14px}
+#wheel{display:block;width:100%;aspect-ratio:1;touch-action:manipulation}
+.pointer{position:absolute;left:50%;top:-6px;width:0;height:0;margin-left:-15px;border-left:15px solid transparent;border-right:15px solid transparent;border-top:34px solid var(--cream);filter:drop-shadow(0 3px 3px rgba(0,0,0,.5))}
+.center{text-align:center}
+.result{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.result .who{font:700 32px/1.1 Georgia,serif}
+.result .lab{font-size:14px;color:var(--muted);margin-bottom:2px}
+.pop{animation:pop .6s cubic-bezier(.2,1.4,.4,1)}
+@keyframes pop{from{transform:scale(.8);opacity:0}to{transform:scale(1);opacity:1}}
+.row{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:6px}
+details{background:var(--card);border:1px solid var(--line);border-radius:14px;margin-bottom:10px}
+summary{list-style:none;cursor:pointer;padding:16px 18px;min-height:56px;display:flex;align-items:center;justify-content:space-between;font:700 20px Georgia,serif}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";font:400 26px/1 system-ui,sans-serif;color:var(--gold)}
+details[open] summary::after{content:"\2212"}
+details[open]{border-color:var(--gold)}
+.wl{padding:0 18px 16px}
+.wl ul{margin:0;padding-left:20px}
+.wl li{margin:4px 0}
+.empty{color:var(--muted);font-style:italic;margin:0}
+footer{text-align:center;color:var(--muted);font-size:14px;margin-top:26px}
+@media (min-width:900px){
+  body{font-size:17px}
+  main{max-width:600px}
+  .wheel-box{width:440px}
+}
+@media (prefers-reduced-motion:reduce){.snow{display:none}.pop{animation:none}}
+</style>
+</head>
+<body>
+<div class="snow" id="snow" aria-hidden="true"></div>
+<div class="lights" aria-hidden="true"></div>
+<main>
+  <header>
+    <h1>Тайный Санта</h1>
+    <p class="sub">Семейный обмен подарками. 2027 год пройдёт под знаком Огненной Козы 🐐</p>
+  </header>
+
+  <div class="tabs" role="tablist">
+    <button class="tab" role="tab" id="tab-draw" aria-controls="panel-draw" aria-selected="true">Мой подарок</button>
+    <button class="tab" role="tab" id="tab-wish" aria-controls="panel-wish" aria-selected="false">Вишлисты</button>
+  </div>
+
+  <section class="panel" id="panel-draw" role="tabpanel" aria-labelledby="tab-draw">
+    <div class="card" id="login">
+      <h2>Вход</h2>
+      <p class="muted">Введи личный код из четырёх цифр, который тебе прислали.</p>
+      <form id="loginForm" autocomplete="off">
+        <input id="pin" type="tel" inputmode="numeric" pattern="[0-9]*" maxlength="4" placeholder="0000" aria-label="Личный код" required>
+        <p class="err" id="err" role="alert"></p>
+        <button class="btn" id="enter" type="submit">Войти</button>
+      </form>
+      <p class="hint">Если ты только получаешь подарки, кода у тебя нет. Загляни во вкладку «Вишлисты».</p>
+    </div>
+
+    <div id="game" hidden>
+      <div class="card">
+        <div class="row">
+          <h2 id="hello"></h2>
+          <button class="btn ghost" id="logout" type="button">Выйти</button>
+        </div>
+        <p class="muted" id="need"></p>
+      </div>
+      <div id="results"></div>
+      <div class="card center" id="wheelCard">
+        <div class="wheel-box">
+          <div class="pointer" aria-hidden="true"></div>
+          <canvas id="wheel" width="800" height="800" aria-label="Колесо с именами"></canvas>
+        </div>
+        <button class="btn" id="spin" type="button">Крутить колесо</button>
+      </div>
+      <p class="hint center" id="doneNote" hidden>Все вращения сделаны. Заходи сюда по коду, чтобы снова посмотреть, кому дарить.</p>
+    </div>
+  </section>
+
+  <section class="panel" id="panel-wish" role="tabpanel" aria-labelledby="tab-wish" hidden>
+    <div id="wishes"></div>
+  </section>
+
+  <footer>Результат видишь только ты. Что подарить и на какую сумму, решаешь сам.</footer>
+</main>
+
+<script>
+const DATA = {"salt":"kN3cGHLjHS/QjIgZonhDtg==","iter":100000,"blobs":["J3Lo4erSSTjIQJSvuc+MQODotfsOswz8MawHKYfboV4F2ncj8Pdn3h9OFFeYEMENFlx7Xym9I9vBJByRDmm9NPQqJu8708v6Hpx6s8n5vklLnUZj5hcMEyoIKUrK","tPhto712NIH+HnJMObUETZdtCjA0KXmPWcfHudN3idrm1k7yHsqFZPCcOgtHBh0cGWKQO4wzfWjHiKYMF2nZytsjPPGr912IdgTlzTC4jvcacd+/nloy+ks=","0RiuAVMFGArNHqXw8/taFHtNmWaII9vk30cnzI2jwaCijvTO3hnYRAJvBxqEausdwn4NazfsYVapiluegOamMYlcAJ3NC1Q7lN2vZmRRyDmWIFfS1g2z","DEKGhLZmxQ9zFBt3Gq0dZ97ZKnetrfyFPXytEPg7X0rVniTbFog36X9aS0/fMPTaRKriyV/aiGiBOAdtIMTd7U3HJ1BnYT1trIjkHcwDPQE/5sf4UCynfoKAFg==","j1KapdPpHMEbtlKUlOTd6T+xxszs9H2Nyb1Id9DvefzBdiAj4kVwvdlYUVtVZpPuaFy7dyPkynXecN/PrI5tCVvzdR6Z244+jsnCas2UxfrrDFENJLdIPLJEYA==","MHIYhsrckspgpqhEn6zZ/gKHLBxL1YAypUFIBEA4e5EkoEpArGL8EzrZMlDlDGtVuNb9cFGcsnBjpZxshQS+J/33kLI=","ekl8JRgeP/BgiNQ18THczVUL1MW0CycbefSXuxB/k3eEFhuhLKxvAJJMTDyNzaT4d5mGtjFNQwIHwBJZJ3abWinzUSpfTuZ8HXbJil0hPYOB5zudwg=="],"names":["Сельби","Замира","Заира","Милана","Вл","Тимур","Таме","Вова","Кристина","Марина","Костя","Марк","Муфаса"],"wishlists":{"Сельби":[],"Замира":[],"Заира":[],"Милана":[],"Вл":[],"Тимур":[],"Таме":[],"Вова":[],"Кристина":[],"Марина":[],"Костя":[],"Марк":[],"Муфаса":[]}};
+const $ = s => document.querySelector(s);
+const enc = new TextEncoder(), dec = new TextDecoder();
+const b64 = s => Uint8Array.from(atob(s), c => c.charCodeAt(0));
+const store = {
+  get(k){ try { return localStorage.getItem(k); } catch(e){ return null; } },
+  set(k,v){ try { localStorage.setItem(k,v); } catch(e){} }
+};
+const reduceMotion = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+/* снег */
+if(!reduceMotion){
+  const snow = $('#snow');
+  for(let i=0;i<26;i++){
+    const f = document.createElement('i'); f.className='flake';
+    const s = 2 + Math.random()*4;
+    f.style.cssText = `left:${Math.random()*100}%;width:${s}px;height:${s}px;opacity:${.35+Math.random()*.5};`+
+      `animation-duration:${9+Math.random()*12}s;animation-delay:${-Math.random()*20}s;--dx:${(Math.random()-.5)*80}px`;
+    snow.appendChild(f);
+  }
+}
+
+/* вкладки */
+function showTab(which){
+  const draw = which === 'draw';
+  $('#panel-draw').hidden = !draw; $('#panel-wish').hidden = draw;
+  $('#tab-draw').setAttribute('aria-selected', draw);
+  $('#tab-wish').setAttribute('aria-selected', !draw);
+}
+$('#tab-draw').onclick = () => showTab('draw');
+$('#tab-wish').onclick = () => showTab('wish');
+
+/* вишлисты */
+function renderWishes(){
+  const box = $('#wishes'); box.textContent = '';
+  for(const name of DATA.names){
+    const d = document.createElement('details'); d.id = 'wl-' + name;
+    const s = document.createElement('summary'); s.textContent = name; d.appendChild(s);
+    const w = document.createElement('div'); w.className = 'wl';
+    const items = (DATA.wishlists[name] || []);
+    if(!items.length){
+      const p = document.createElement('p'); p.className = 'empty'; p.textContent = 'Список пока не заполнен.'; w.appendChild(p);
+    } else {
+      const ul = document.createElement('ul');
+      items.forEach(t => { const li = document.createElement('li'); li.textContent = t; ul.appendChild(li); });
+      w.appendChild(ul);
+    }
+    d.appendChild(w); box.appendChild(d);
+  }
+}
+function openWish(name){
+  showTab('wish');
+  document.querySelectorAll('#wishes details').forEach(d => d.open = false);
+  const d = document.getElementById('wl-' + name);
+  if(d){ d.open = true; d.scrollIntoView({behavior: reduceMotion ? 'auto' : 'smooth', block:'start'}); }
+}
+renderWishes();
+if(location.hash === '#wishlists') showTab('wish');
+
+/* вход по коду */
+async function tryPin(pin){
+  if(!(window.crypto && crypto.subtle)) throw new Error('nocrypto');
+  const base = await crypto.subtle.importKey('raw', enc.encode(pin), 'PBKDF2', false, ['deriveKey']);
+  const key = await crypto.subtle.deriveKey(
+    {name:'PBKDF2', salt:b64(DATA.salt), iterations:DATA.iter, hash:'SHA-256'},
+    base, {name:'AES-GCM', length:256}, false, ['decrypt']);
+  for(const blob of DATA.blobs){
+    const raw = b64(blob);
+    try{
+      const pt = await crypto.subtle.decrypt({name:'AES-GCM', iv:raw.slice(0,12)}, key, raw.slice(12));
+      return JSON.parse(dec.decode(pt));
+    }catch(e){}
+  }
+  return null;
+}
+
+let me = null, done = 0, wheelNames = [], rot = 0, spinning = false;
+const COLORS = ['#b3263e','#1d6b57','#b8791a','#2b4a8c','#8e2a66','#c2561f'];
+
+$('#loginForm').addEventListener('submit', async e => {
+  e.preventDefault();
+  const pin = $('#pin').value.trim();
+  const err = $('#err'), btn = $('#enter');
+  err.textContent = '';
+  if(!/^\d{4}$/.test(pin)){ err.textContent = 'Нужно ввести четыре цифры.'; return; }
+  btn.disabled = true; btn.textContent = 'Проверяю…';
+  try{
+    const r = await tryPin(pin);
+    if(!r){ err.textContent = 'Код не подходит. Проверь цифры и попробуй ещё раз.'; }
+    else { me = r; $('#pin').value = ''; startGame(); }
+  }catch(ex){
+    err.textContent = 'Браузер не умеет проверять код. Открой сайт по ссылке в Safari или Chrome.';
+  }
+  btn.disabled = false; btn.textContent = 'Войти';
+});
+$('#logout').onclick = () => { me = null; $('#game').hidden = true; $('#login').hidden = false; $('#pin').focus(); };
+
+function startGame(){
+  done = Math.min(parseInt(store.get('santa27:' + me.name) || '0', 10) || 0, me.targets.length);
+  $('#login').hidden = true; $('#game').hidden = false;
+  $('#hello').textContent = 'Привет, ' + me.name + '!';
+  $('#need').textContent = me.targets.length === 1
+    ? 'Тебе нужно сделать один подарок. Одно вращение колеса.'
+    : 'Тебе нужно сделать два подарка. Каждое вращение колеса показывает одного человека.';
+  render(null);
+}
+
+function render(newIdx){
+  const res = $('#results'); res.textContent = '';
+  for(let i = 0; i < done; i++){
+    const c = document.createElement('div'); c.className = 'card result' + (i === newIdx ? ' pop' : '');
+    const l = document.createElement('div');
+    const lab = document.createElement('div'); lab.className = 'lab';
+    lab.textContent = me.targets.length > 1 ? 'Подарок ' + (i+1) + ' из ' + me.targets.length : 'Твой подарок';
+    const who = document.createElement('div'); who.className = 'who'; who.textContent = me.targets[i];
+    l.append(lab, who);
+    const b = document.createElement('button'); b.className = 'btn ghost'; b.type = 'button'; b.textContent = 'Вишлист: ' + me.targets[i];
+    b.onclick = () => openWish(me.targets[i]);
+    c.append(l, b); res.appendChild(c);
+  }
+  const more = done < me.targets.length;
+  $('#wheelCard').hidden = !more; $('#doneNote').hidden = more;
+  if(more){
+    wheelNames = DATA.names.filter(n => n !== me.name && !me.targets.slice(0, done).includes(n));
+    rot = 0; sizeCanvas(); drawWheel();
+    $('#spin').textContent = me.targets.length > 1 ? 'Крутить колесо (' + (done+1) + ' из ' + me.targets.length + ')' : 'Крутить колесо';
+    $('#spin').disabled = false;
+  }
+}
+
+/* колесо */
+function sizeCanvas(){
+  const c = $('#wheel'), s = c.getBoundingClientRect().width || 360, r = Math.min(window.devicePixelRatio || 1, 3);
+  c.width = c.height = Math.round(s * r);
+}
+function drawWheel(){
+  const c = $('#wheel'), x = c.getContext('2d'), S = c.width, cx = S/2, R = S/2 - S*0.03;
+  const n = wheelNames.length, seg = 2*Math.PI/n;
+  x.clearRect(0, 0, S, S);
+  x.beginPath(); x.arc(cx, cx, R + S*0.022, 0, 2*Math.PI); x.fillStyle = '#f2c14e'; x.fill();
+  for(let i = 0; i < n; i++){
+    const a0 = rot + i*seg - Math.PI/2, a1 = a0 + seg;
+    x.beginPath(); x.moveTo(cx, cx); x.arc(cx, cx, R, a0, a1); x.closePath();
+    x.fillStyle = COLORS[i % COLORS.length]; x.fill();
+    x.strokeStyle = 'rgba(255,244,224,.55)'; x.lineWidth = S*0.004; x.stroke();
+    x.save(); x.translate(cx, cx); x.rotate(a0 + seg/2);
+    x.fillStyle = '#fff4e0'; x.font = '700 ' + (S*0.05) + 'px Georgia, serif';
+    x.textAlign = 'right'; x.textBaseline = 'middle';
+    x.fillText(wheelNames[i], R - S*0.05, 0); x.restore();
+  }
+  for(let i = 0; i < n; i++){ // лампочки по ободу
+    const a = rot + i*seg - Math.PI/2;
+    x.beginPath(); x.arc(cx + Math.cos(a)*(R + S*0.011), cx + Math.sin(a)*(R + S*0.011), S*0.007, 0, 2*Math.PI);
+    x.fillStyle = '#fff4e0'; x.fill();
+  }
+  x.beginPath(); x.arc(cx, cx, S*0.085, 0, 2*Math.PI); x.fillStyle = '#07151f'; x.fill();
+  x.lineWidth = S*0.012; x.strokeStyle = '#f2c14e'; x.stroke();
+  x.font = (S*0.085) + 'px system-ui, sans-serif'; x.textAlign = 'center'; x.textBaseline = 'middle';
+  x.fillStyle = '#fff4e0'; x.fillText('\u{1F410}', cx, cx + S*0.005);
+}
+function spinTo(target){
+  return new Promise(resolve => {
+    const n = wheelNames.length, seg = 2*Math.PI/n, TAU = 2*Math.PI;
+    const idx = wheelNames.indexOf(target), center = idx*seg + seg/2;
+    const base = ((-center) % TAU + TAU) % TAU;
+    const jitter = (Math.random() - .5) * seg * .6;
+    const start = rot, end = (start - (start % TAU)) + base + (5 + Math.floor(Math.random()*2))*TAU + jitter;
+    const dur = reduceMotion ? 900 : 5200, t0 = performance.now();
+    (function frame(now){
+      const t = Math.min(1, (now - t0)/dur), e = 1 - Math.pow(1 - t, 3.2);
+      rot = start + (end - start)*e; drawWheel();
+      if(t < 1) requestAnimationFrame(frame); else resolve();
+    })(t0);
+  });
+}
+$('#spin').onclick = async () => {
+  if(spinning || !me || done >= me.targets.length) return;
+  spinning = true; $('#spin').disabled = true; $('#spin').textContent = 'Крутится…';
+  await spinTo(me.targets[done]);
+  const idx = done; done++;
+  store.set('santa27:' + me.name, String(done));
+  spinning = false; render(idx);
+};
+window.addEventListener('resize', () => { if(me && !spinning && done < me.targets.length){ sizeCanvas(); drawWheel(); } });
+</script>
+</body>
+</html>
